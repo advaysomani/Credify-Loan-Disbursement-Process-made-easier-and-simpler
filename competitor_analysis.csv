@@ -1,0 +1,504 @@
+ObjectId,GeoPosition_type,GeoPosition_latitude,GeoPosition_longitude,CountryCode,PostalCode,PlaceName,AdminName1,AdminName2,AdminName3,Population,Area_km_sq,Agriculture and Allied Activities,Transport Operators,Computer Software,"Tourism, Hotels and Restaurants",Shipping,Aviation,Professional Services,Commercial Real Estate,Education,Housing,Export Credit,Housing Finance Companies (HFCs),Public Financial Institutions (PFIs),Wholesale Trade,Retail Trade,Consumer Durables,Renewable Energy,Healthcare
+t4zh69sSS6,GeoPoint,18.9474,72.8138,IN,400001,Town Hall (Mumbai),Maharashtra,Mumbai,Mumbai,133622,7.16,9,44,59,100,2,1,106,57,40,142,17,17,5,26,74,2,15,17
+cSfjoDH7wm,GeoPoint,18.9474,72.8138,IN,400001,Tajmahal,Maharashtra,Mumbai,Mumbai,133622,7.16,4,37,42,107,2,5,103,45,12,117,20,11,2,25,90,1,11,20
+LQTtPoofvx,GeoPoint,18.9474,72.8138,IN,400001,Stock Exchange,Maharashtra,Mumbai,Mumbai,133622,7.16,5,37,44,89,6,5,112,59,45,108,17,19,1,38,99,1,10,17
+UH7NFa8qb1,GeoPoint,18.9474,72.8138,IN,400001,Mumbai G.P.O.,Maharashtra,Mumbai,Mumbai,133622,7.16,7,33,67,106,3,5,110,42,35,116,25,11,1,37,54,2,15,24
+sCBSgrQiZa,GeoPoint,18.9474,72.8138,IN,400001,M.P.T.,Maharashtra,Mumbai,Mumbai,133622,7.16,8,25,43,99,4,3,106,65,43,150,22,14,2,28,93,3,11,24
+TDXs7ZgFqp,GeoPoint,18.9474,72.8138,IN,400001,Bazargate,Maharashtra,Mumbai,Mumbai,133622,7.16,7,51,46,103,10,1,111,60,35,125,21,10,3,40,54,2,12,24
+apvT9KrCpc,GeoPoint,18.975,72.8258,IN,400002,Thakurdwar,Maharashtra,Mumbai,Mumbai,79936,1.53,5,20,69,89,2,3,103,55,29,129,23,13,3,39,54,4,13,30
+BNpHIDD0Nr,GeoPoint,18.975,72.8258,IN,400002,S. C. Court,Maharashtra,Mumbai,Mumbai,79936,1.53,9,38,33,83,8,3,95,60,22,101,25,15,4,33,80,1,14,27
+V0T4Hs9uLk,GeoPoint,18.975,72.8258,IN,400002,Kalbadevi H.O,Maharashtra,Mumbai,Mumbai,79936,1.53,6,43,46,92,4,3,138,68,31,146,25,19,1,39,94,3,15,15
+8BhrEdewUw,GeoPoint,18.95,72.8333,IN,400003,Null Bazar,Maharashtra,Mumbai,Dadar,50426.5,0.79,9,30,70,104,7,1,120,51,43,111,17,12,2,28,65,2,15,22
+HHUllFR6c5,GeoPoint,18.95,72.8333,IN,400003,Masjid,Maharashtra,Mumbai,Dadar,50426.5,0.79,5,30,39,98,2,5,128,58,39,103,20,14,3,31,71,2,14,23
+7LQ9cWue2n,GeoPoint,18.95,72.8333,IN,400003,Mandvi (Mumbai),Maharashtra,Mumbai,Dadar,37811,0.58,9,34,67,104,9,5,91,47,14,125,18,17,5,30,56,1,15,18
+YYzR5ekpgO,GeoPoint,18.95,72.8333,IN,400003,B.P.Lane,Maharashtra,Mumbai,Dadar,63042,1,5,41,40,103,4,4,121,50,37,144,21,16,3,35,57,3,15,20
+kTfc284PaC,GeoPoint,18.95,72.8167,IN,400004,Opera House,Maharashtra,Mumbai,Mumbai,11232,0.21,8,23,60,97,6,2,140,64,39,107,24,10,2,40,78,3,15,23
+NwUi4v0Rym,GeoPoint,18.95,72.8167,IN,400004,Madhavbaug,Maharashtra,Mumbai,Mumbai,53285.75,0.8775,6,40,35,96,7,4,124,46,26,114,24,12,4,34,87,2,13,21
+N1nLJwReRQ,GeoPoint,18.95,72.8167,IN,400004,Girgaon,Maharashtra,Mumbai,Mumbai,99348,1.66,9,22,30,106,7,4,123,56,12,132,20,10,1,34,98,3,13,17
+aBv79YgBJD,GeoPoint,18.95,72.8167,IN,400004,Chaupati,Maharashtra,Mumbai,Mumbai,53285.75,0.8775,7,54,47,94,10,5,93,67,42,118,19,17,2,37,81,2,14,30
+FjnPqxzmFE,GeoPoint,18.95,72.8167,IN,400004,Charni Road,Maharashtra,Mumbai,Mumbai,99826,1.51,10,20,47,109,6,2,119,60,30,117,25,17,2,26,78,1,10,20
+YrQfjkRqHc,GeoPoint,18.95,72.8167,IN,400004,Ambewadi (Mumbai),Maharashtra,Mumbai,Mumbai,2737,0.13,10,40,69,92,9,1,114,54,20,134,18,14,3,28,62,1,14,19
+eJCJdGFx7X,GeoPoint,18.9069,72.8106,IN,400005,V.W.T.C.,Maharashtra,Mumbai,Mumbai,84807,4.99,7,21,57,83,8,1,130,56,30,111,19,17,2,33,72,4,12,21
+wamihB62dG,GeoPoint,18.9069,72.8106,IN,400005,Holiday Camp,Maharashtra,Mumbai,Mumbai,84807,4.99,8,39,35,109,2,2,131,49,23,122,22,17,4,36,74,1,14,20
+QuagsNvZc5,GeoPoint,18.9069,72.8106,IN,400005,Colaba Bazar,Maharashtra,Mumbai,,84807,4.99,4,46,45,106,8,2,112,46,18,123,18,16,3,36,91,2,15,25
+FrkxpkcSqL,GeoPoint,18.9069,72.8106,IN,400005,Colaba,Maharashtra,Mumbai,Mumbai,84807,4.99,7,48,33,87,4,5,109,57,14,134,25,18,1,38,82,4,15,19
+R85ixHKsCK,GeoPoint,18.9069,72.8106,IN,400005,Asvini,Maharashtra,Mumbai,Mumbai,84807,4.99,7,55,37,103,5,2,111,59,17,144,18,11,2,39,94,2,15,26
+MPefHbzgkg,GeoPoint,18.9596,72.8496,IN,400006,Malabar Hill,Maharashtra,Mumbai,Mumbai,48956,2.38,5,37,59,92,5,2,114,58,27,118,16,20,3,37,74,4,13,25
+Aq3rMDhZQh,GeoPoint,18.9667,72.8167,IN,400007,Tardeo,Maharashtra,Mumbai,Mumbai,77813,1.53,8,37,66,80,8,5,92,53,25,140,17,16,3,36,77,1,12,19
+hkii375Emj,GeoPoint,18.9636,72.8193,IN,400007,S V Marg,Maharashtra,Mumbai,Mumbai,59258,1.135,7,53,49,97,9,3,108,49,28,131,17,15,5,35,60,5,14,15
+4mXA0kLPpH,GeoPoint,18.9636,72.8193,IN,400007,N.S.Patkar Marg,Maharashtra,Mumbai,Mumbai,88893,1.72,4,50,54,86,7,4,125,42,38,108,21,16,4,27,70,2,15,30
+pFldJIAjeS,GeoPoint,18.9606,72.822,IN,400007,Grant Road,Maharashtra,Mumbai,Mumbai,63744,0.98,4,37,38,105,8,4,106,60,18,137,23,13,5,35,63,2,10,20
+ZFuGmPkB5E,GeoPoint,18.9636,72.8193,IN,400007,Bharat Nagar (Mumbai),Maharashtra,Mumbai,Mumbai,6582,0.31,8,27,30,98,10,4,133,60,21,147,18,16,2,38,64,2,15,26
+vmsR1uxa2F,GeoPoint,18.9474,72.8138,IN,400008,Mumbai Central H.O,Maharashtra,Mumbai,Mumbai,135796,2.59,8,38,53,87,8,3,96,40,12,122,16,14,1,28,51,4,11,26
+vco5nYpwt0,GeoPoint,18.9474,72.8138,IN,400008,M A Marg,Maharashtra,Mumbai,Mumbai,82470,1.453333333,4,37,37,87,5,5,131,55,25,131,17,17,1,40,74,3,13,19
+BqWfWhNXEZ,GeoPoint,18.9474,72.8138,IN,400008,Kamathipura,Maharashtra,Mumbai,Mumbai,101517,1.56,10,26,33,103,7,4,103,66,31,102,19,13,2,28,68,1,10,30
+VfAqOhXkAn,GeoPoint,18.9474,72.8138,IN,400008,J.J.Hospital,Maharashtra,Mumbai,Mumbai,10097,0.21,9,42,53,81,4,1,122,65,38,130,24,11,1,40,58,4,14,29
+hs3jpbAPGw,GeoPoint,18.9474,72.8138,IN,400008,Falkland Road,Maharashtra,Mumbai,Mumbai,82470,1.453333333,6,36,43,109,7,5,135,52,19,135,21,17,4,36,83,4,15,20
+EOe6TSVWmP,GeoPoint,18.9474,72.8138,IN,400009,Princess Dock,Maharashtra,Mumbai,Dadar,75609,1.8,6,43,64,110,6,2,139,70,15,103,17,16,1,27,79,5,14,15
+SzhratOgFJ,GeoPoint,18.9474,72.8138,IN,400009,Noor Baug,Maharashtra,Mumbai,Dadar,75609,1.8,9,23,41,104,7,1,110,42,17,132,25,16,3,37,51,2,10,26
+DfX1CpqyUV,GeoPoint,18.9474,72.8138,IN,400009,Chinchbunder,Maharashtra,Mumbai,Mumbai,75609,1.8,8,40,41,81,9,4,116,68,38,104,24,19,1,27,60,2,13,26
+fv7G2KHb7e,GeoPoint,18.9681,72.845,IN,400010,V K Bhavan,Maharashtra,Mumbai,Dadar,97188.5,3.835,6,53,42,99,6,3,99,43,29,129,15,15,2,37,58,2,14,16
+Q4VBG11lam,GeoPoint,18.9681,72.845,IN,400010,Mazgaon Road,Maharashtra,Mumbai,Dadar,97188.5,3.835,4,28,37,102,6,1,127,60,14,136,16,11,3,36,100,5,15,26
+A0TmdjEbvT,GeoPoint,18.9681,72.845,IN,400010,Mazgaon Dock,Maharashtra,Mumbai,Dadar,96013,3.14,4,25,35,99,7,5,123,44,42,134,18,17,2,26,80,2,11,23
+0SISJjgRwY,GeoPoint,18.9681,72.845,IN,400010,Mazgaon,Maharashtra,Mumbai,Dadar,98364,4.53,7,24,59,91,2,3,108,54,12,131,20,16,4,35,53,1,14,18
+TKaEAQs1DD,GeoPoint,18.9681,72.845,IN,400010,Dockyard Road,Maharashtra,Mumbai,Dadar,97188.5,3.835,10,50,68,93,7,3,106,65,16,100,22,16,4,35,88,4,11,28
+HgBAByhRxh,GeoPoint,18.9833,72.8333,IN,400011,Jacob Circle,Maharashtra,Mumbai,Mumbai,72497,1.72,10,37,34,92,7,5,125,43,26,120,25,13,1,31,100,3,14,23
+4ik9tJr8lb,GeoPoint,18.9833,72.8333,IN,400011,Haines Road,Maharashtra,Mumbai,Mumbai,32298,0.7575,5,29,63,91,9,2,137,53,26,135,18,13,3,32,51,4,14,19
+H8RkvTaADZ,GeoPoint,18.9833,72.8333,IN,400011,Chinchpokli,Maharashtra,Mumbai,Mumbai,10741,0.28,6,47,53,86,6,2,111,67,29,104,17,17,4,32,87,2,12,24
+Ewshfgz5TN,GeoPoint,18.9833,72.8333,IN,400011,BPC  Jacob Circle,Maharashtra,Mumbai,Mumbai,20409,0.47,8,45,57,99,5,2,90,63,24,101,25,19,4,39,57,4,15,20
+XNHowlpqUe,GeoPoint,18.9833,72.8333,IN,400011,Agripada,Maharashtra,Mumbai,Mumbai,25545,0.56,4,41,41,106,6,1,104,63,24,150,24,11,1,40,68,1,15,23
+0lVEWvLahT,GeoPoint,19,72.8333,IN,400012,Parel Rly Work Shop,Maharashtra,Mumbai,Dadar,106235.6667,2.88,9,48,53,94,10,1,117,40,43,148,25,16,4,33,81,5,11,23
+Ur9pJ7LJe8,GeoPoint,19,72.8333,IN,400012,Parel Naka,Maharashtra,Mumbai,Mumbai,106235.6667,2.88,8,24,46,88,10,4,101,48,27,108,22,17,4,35,91,3,10,21
+4TgRyXNV6o,GeoPoint,19,72.8333,IN,400012,Parel,Maharashtra,Mumbai,Dadar,146056,4.06,6,38,59,110,8,1,90,62,11,126,16,13,2,33,77,5,15,30
+LfM8rOFXwV,GeoPoint,19,72.8333,IN,400012,Lal Baug,Maharashtra,Mumbai,Dadar,2682,0.18,4,43,63,84,2,1,98,51,23,135,18,16,1,32,78,2,10,27
+w9KeMPifIr,GeoPoint,19,72.8333,IN,400012,Haffkin Institute,Maharashtra,Mumbai,Mumbai,106235.6667,2.88,7,20,54,107,4,2,125,59,29,104,18,20,3,33,62,3,11,29
+jehG2MEfsj,GeoPoint,19,72.8333,IN,400012,Chamarbaug,Maharashtra,Mumbai,Dadar,106235.6667,2.88,10,29,58,98,9,5,98,44,25,123,21,14,5,28,78,3,13,30
+hB4Cf9yS8a,GeoPoint,19,72.8333,IN,400012,BEST STaff Quarters,Maharashtra,Mumbai,Dadar,169969,4.4,8,52,64,103,7,5,117,51,39,113,17,15,4,29,70,5,12,25
+RVEv4g8ZwV,GeoPoint,19.0073,72.8421,IN,400013,Delisle Road,Maharashtra,Mumbai,Mumbai,91148,2.19,6,32,69,82,8,4,133,68,22,148,25,10,3,35,96,3,15,30
+pbXXPKJ0Or,GeoPoint,19.0073,72.8421,IN,400014,Naigaon (Mumbai),Maharashtra,Mumbai,Mumbai,22456,0.42,8,32,65,110,9,3,101,60,38,101,23,11,1,30,86,1,15,22
+uhEjITE4mF,GeoPoint,19.0073,72.8421,IN,400014,Dadar H.O,Maharashtra,Mumbai,Mumbai,89118,1.93,6,22,43,88,3,5,106,53,29,130,23,16,2,30,100,2,12,30
+Rb4767qv6Q,GeoPoint,19.0073,72.8421,IN,400014,Dadar Colony,Maharashtra,Mumbai,Mumbai,13837,0.35,8,41,32,88,9,3,112,42,28,110,15,10,1,26,60,3,11,19
+zv5krFTh1c,GeoPoint,19,72.85,IN,400015,Sewri,Maharashtra,Mumbai,Dadar,93604,4.05,4,27,35,107,7,5,91,56,28,150,20,12,3,31,72,2,13,19
+AbiLE1tcSV,GeoPoint,19.0073,72.8421,IN,400016,Mori Road,Maharashtra,Mumbai,Mumbai,96551,2.105,7,30,31,93,7,2,115,69,35,129,21,18,2,38,92,3,14,26
+G9cE3HhD1A,GeoPoint,19.0073,72.8421,IN,400016,Mahim H.O,Maharashtra,Mumbai,Mumbai,109440,2.31,4,25,34,99,2,5,103,62,16,135,24,15,2,36,71,3,13,24
+VKoLWCAGHW,GeoPoint,19.0073,72.8421,IN,400016,Mahim East,Maharashtra,Mumbai,Mumbai,83662,1.9,10,49,68,88,4,2,130,40,37,118,16,19,5,31,83,4,14,30
+ZG40TmA8XW,GeoPoint,19.0073,72.8421,IN,400016,Mahim Bazar,Maharashtra,Mumbai,Mumbai,96551,2.105,9,29,38,88,9,1,108,64,29,136,20,14,5,40,52,5,15,23
+8I2gAKgZQf,GeoPoint,19.0073,72.8421,IN,400016,Kapad Bazar,Maharashtra,Mumbai,Mumbai,96551,2.105,10,35,34,109,6,3,97,43,20,106,20,11,3,38,51,2,10,20
+00bm5ogTx3,GeoPoint,19.05,72.8667,IN,400017,Dharavi Road,Maharashtra,Mumbai,Mumbai,107144,3.93,4,53,54,105,8,5,140,42,16,114,23,20,2,37,84,1,12,15
+SawCFjGvf6,GeoPoint,19.05,72.8667,IN,400017,Dharavi,Maharashtra,Mumbai,Mumbai,92135,2.8,8,21,30,93,6,3,106,70,25,105,22,14,1,38,58,5,12,21
+DBnHipfXWf,GeoPoint,19.0167,72.8167,IN,400018,Worli Naka,Maharashtra,Mumbai,Mumbai,99917,3.73,4,31,30,99,8,2,91,43,22,120,16,11,1,30,55,3,11,29
+YKhtxWOhuM,GeoPoint,19.0167,72.8167,IN,400018,Worli,Maharashtra,Mumbai,Mumbai,132452,4.16,4,39,56,99,10,2,96,57,20,137,24,13,1,25,91,4,13,27
+nBoX4qPNvb,GeoPoint,19.0333,72.85,IN,400019,Matunga,Maharashtra,Mumbai,Mumbai,90888,2.31,7,46,33,90,2,4,98,57,14,142,19,11,4,34,96,1,12,20
+LQdrA0LpwI,GeoPoint,18.986,72.8259,IN,400020,Marine Lines,Maharashtra,Mumbai,Mumbai,41243,1.01,9,22,41,81,10,2,119,64,32,117,19,17,5,36,92,4,12,29
+nqB3Sa7OZC,GeoPoint,18.986,72.8259,IN,400020,Churchgate,Maharashtra,Mumbai,Mumbai,37130,0.94,4,49,68,89,7,2,118,43,39,127,15,15,3,34,68,4,13,16
+UIDVqYX4sY,GeoPoint,18.986,72.8259,IN,400020,Central Building,Maharashtra,Mumbai,Mumbai,39186.5,0.975,6,52,33,81,7,1,96,42,43,114,20,14,3,39,59,1,10,17
+O2cxH75XEs,GeoPoint,18.9274,72.8241,IN,400021,New Yogakshema,Maharashtra,Mumbai,Mumbai,21306,0.77,4,24,64,101,7,4,130,46,41,118,23,10,3,35,100,3,10,16
+6Tj06B5Qyx,GeoPoint,18.9274,72.8241,IN,400021,Nariman Point,Maharashtra,Mumbai,Mumbai,21306,0.77,5,33,39,103,5,2,126,68,24,149,24,19,4,36,88,3,15,26
+yRJGsyhIDb,GeoPoint,18.9274,72.8241,IN,400021,Elephanta Caves Po,Maharashtra,Raigarh(MH),Uran,21306,0.77,8,43,53,93,2,2,134,67,34,116,17,16,1,28,54,4,11,20
+GOdE4T56Zr,GeoPoint,19.0333,72.85,IN,400022,Transit Camp,Maharashtra,Mumbai,Chembur,119748,4.02,9,30,38,82,5,3,133,44,17,129,24,18,2,33,59,1,15,19
+JF6WvrGtKh,GeoPoint,19.0333,72.85,IN,400022,Sion,Maharashtra,Mumbai,Mumbai,156277,5.61,10,31,41,82,4,4,135,50,39,103,16,19,4,33,51,3,14,20
+TrHclwWosZ,GeoPoint,19.0333,72.85,IN,400022,Raoli Camp,Maharashtra,Mumbai,Chembur,138012.5,4.815,7,26,44,97,3,5,94,59,18,109,17,16,3,33,86,1,11,17
+MpynFRscW2,GeoPoint,19.0333,72.85,IN,400022,Chunabhatti,Maharashtra,Mumbai,Chembur,138012.5,4.815,8,42,36,101,10,2,118,53,35,144,16,18,4,26,83,5,12,17
+ICvZ7mKgab,GeoPoint,18.986,72.8259,IN,400024,Nehru Nagar (Mumbai),Maharashtra,Mumbai,Chembur,84400,2.73,8,24,64,86,10,5,104,60,45,126,17,10,3,35,85,2,15,28
+JNHwDkWAsJ,GeoPoint,19.0164,72.8294,IN,400025,Prabhadevi,Maharashtra,Mumbai,Mumbai,61518,1.33,9,46,40,88,2,4,133,44,30,123,20,10,3,37,66,3,14,29
+DsfDcFcCOY,GeoPoint,19.0164,72.8294,IN,400025,New Prabhadevi Road,Maharashtra,Mumbai,Mumbai,58797,1.32,6,28,49,105,2,3,99,47,28,112,24,19,1,26,91,2,12,22
+txRmPebLHN,GeoPoint,18.9667,72.8,IN,400026,Gowalia Tank,Maharashtra,Mumbai,Mumbai,45693,1.24,7,53,63,98,6,5,115,53,30,130,19,10,5,36,59,5,14,16
+wlvmWCt334,GeoPoint,18.9667,72.8,IN,400026,Dr Deshmukh Marg,Maharashtra,Mumbai,Mumbai,45693,1.24,4,40,65,104,7,1,99,59,13,110,17,19,5,38,77,5,14,16
+eGhHLZXD7g,GeoPoint,18.9667,72.8,IN,400026,Cumballa Sea Face,Maharashtra,Mumbai,Mumbai,38503,1.15,7,32,60,80,8,5,140,42,43,137,19,15,5,27,73,1,14,18
+5d5qwZnFyJ,GeoPoint,18.9667,72.8,IN,400026,Cumballa Hill,Maharashtra,Mumbai,Mumbai,52883,1.33,4,44,65,101,9,4,136,41,31,119,16,13,4,27,80,4,12,27
+mk4rCRDXQn,GeoPoint,18.986,72.8259,IN,400027,V J B Udyan,Maharashtra,Mumbai,Dadar,28775,0.94,10,54,66,94,2,2,136,53,37,124,20,14,2,27,96,5,10,27
+L8rziSaRlA,GeoPoint,18.986,72.8259,IN,400028,Shivaji Park (Mumbai),Maharashtra,Mumbai,Mumbai,26023,0.58,5,34,52,108,4,4,135,54,36,120,15,12,2,36,66,4,14,19
+cAvQXbkWmY,GeoPoint,18.986,72.8259,IN,400028,S V S Marg,Maharashtra,Mumbai,Mumbai,74044.5,1.525,8,45,54,94,2,3,122,67,22,142,25,18,5,25,63,1,11,25
+szAF0uVJad,GeoPoint,18.986,72.8259,IN,400028,Ranade Road,Maharashtra,Mumbai,Mumbai,74044.5,1.525,4,30,31,105,8,3,137,55,42,102,21,19,2,36,92,5,10,30
+CyJA46Cd7X,GeoPoint,18.986,72.8259,IN,400028,Gokhale Road (Mumbai),Maharashtra,Mumbai,Mumbai,74044.5,1.525,4,23,66,88,7,4,134,57,30,110,22,17,3,37,61,5,12,29
+JYNzcO7V8d,GeoPoint,18.986,72.8259,IN,400028,Bhawani Shankar Rd,Maharashtra,Mumbai,Mumbai,74044.5,1.525,8,29,51,96,8,2,123,52,44,102,15,15,5,33,55,3,11,17
+Jj7KmlB45H,GeoPoint,18.986,72.8259,IN,400028,Bhawani Shankar,Maharashtra,Mumbai,Mumbai,122066,2.47,8,21,60,81,2,3,90,45,20,108,20,13,2,40,65,3,15,17
+dZbtD2lHBG,GeoPoint,18.986,72.8259,IN,400029,Santacruz P&t Colony,Maharashtra,Mumbai,Mumbai,36382,1.48,9,36,51,102,5,5,137,43,34,150,15,16,2,25,100,1,12,26
+isep93iNMW,GeoPoint,18.986,72.8259,IN,400029,A I Staff Colony,Maharashtra,Mumbai,Mumbai,4740,0.22,7,44,55,109,6,4,121,48,41,129,21,20,5,36,60,2,10,16
+XuRrpUZC1Q,GeoPoint,19.0167,72.85,IN,400030,Worli Sea Face,Maharashtra,Mumbai,Mumbai,32422,1.38,9,24,32,97,5,2,110,57,37,134,15,19,5,31,88,1,14,15
+sx9wzpRLUw,GeoPoint,19.0167,72.85,IN,400030,Worli Police Camp,Maharashtra,Mumbai,Mumbai,32422,1.38,10,27,54,83,6,2,125,56,18,122,17,17,4,35,76,4,10,16
+mmj1FlchDr,GeoPoint,19.0167,72.85,IN,400030,Worli Colony,Maharashtra,Mumbai,Mumbai,32422,1.38,8,44,37,94,6,1,94,47,40,146,22,19,5,25,62,1,13,27
+wtsXChCHLB,GeoPoint,19.0167,72.85,IN,400030,Century Mill,Maharashtra,Mumbai,Mumbai,32422,1.38,9,46,57,108,10,3,102,51,17,118,15,14,3,26,87,2,14,28
+BJf8P6YN54,GeoPoint,19.0167,72.85,IN,400031,Wadala Rs,Maharashtra,Mumbai,Mumbai,42557,1.32,6,23,52,104,4,2,90,66,44,139,25,20,1,40,55,3,13,17
+jCFmchDASQ,GeoPoint,19.0167,72.85,IN,400031,Wadala,Maharashtra,Mumbai,Mumbai,143064,6.52,9,24,48,85,9,5,105,48,22,126,25,17,4,34,92,4,10,27
+hwtSpokaXf,GeoPoint,19.0167,72.85,IN,400031,Kidwai Nagar (Mumbai),Maharashtra,Mumbai,Mumbai,92810.5,3.92,8,26,50,110,6,2,106,46,29,100,19,14,1,26,80,1,13,27
+ZaD4MYnAFg,GeoPoint,19.0167,72.85,IN,400032,Secretariate,Maharashtra,Mumbai,Mumbai,11479,0.41,7,45,55,80,2,2,136,48,11,124,24,20,5,28,65,2,11,27
+XDuon9NyiQ,GeoPoint,19.0167,72.85,IN,400032,Mantralaya (Mumbai),Maharashtra,Mumbai,Mumbai,11479,0.41,4,55,70,104,5,3,107,49,21,116,19,18,5,37,57,1,14,20
+wpdaKSRvYU,GeoPoint,19.0167,72.85,IN,400032,High Court Building (Mumbai),Maharashtra,Mumbai,Mumbai,11479,0.41,10,31,57,94,8,5,110,57,12,118,21,12,2,29,80,2,12,15
+Sif96B3b2I,GeoPoint,19.0167,72.85,IN,400033,Tank Road,Maharashtra,Mumbai,Dadar,47209,1.62,6,22,31,97,9,3,124,48,14,136,16,15,1,26,70,5,11,21
+AI0kIk7mEP,GeoPoint,19.0167,72.85,IN,400033,Reay Road,Maharashtra,Mumbai,Dadar,47209,1.62,8,50,55,84,5,5,91,70,10,101,16,14,1,26,54,3,11,19
+HzjnpWJ0M0,GeoPoint,19.0167,72.85,IN,400033,L B S N E collage,Maharashtra,Mumbai,Dadar,47209,1.62,10,52,68,87,3,1,125,43,18,106,23,20,1,37,83,3,13,20
+7NXyE66gNu,GeoPoint,19.0167,72.85,IN,400033,Kalachowki,Maharashtra,Mumbai,Dadar,47209,1.62,6,53,58,80,5,3,93,52,25,114,19,19,4,35,83,3,12,17
+AxGMkUE8xo,GeoPoint,19.0167,72.85,IN,400033,Cotton Exchange,Maharashtra,Mumbai,Dadar,47209,1.62,4,22,66,81,3,5,117,70,29,115,16,19,2,35,73,2,13,29
+vIBJzcLb4F,GeoPoint,19.0167,72.85,IN,400034,Tulsiwadi,Maharashtra,Mumbai,Mumbai,4257,0.11,7,25,56,106,3,1,106,55,22,106,21,13,1,26,50,5,10,24
+KybvJmUTT2,GeoPoint,19.0167,72.85,IN,400034,Haji Ali,Maharashtra,Mumbai,Mumbai,45628,1.27,10,38,47,110,5,5,140,52,26,130,23,10,2,32,95,2,12,16
+b7J3akJSPM,GeoPoint,19.0167,72.85,IN,400035,Rajbhavan (Mumbai),Maharashtra,Mumbai,Mumbai,1613,0.3,6,28,59,97,2,5,119,67,39,150,24,15,2,33,54,1,12,20
+5284e89fTi,GeoPoint,19.0167,72.85,IN,400037,Wadala Truck Terminal,Maharashtra,Mumbai,,98464,5.94,8,39,53,100,5,5,112,61,24,104,18,15,2,30,61,1,12,20
+lg58FW9mUq,GeoPoint,19.0167,72.85,IN,400037,C G S Colony,Maharashtra,Mumbai,Mumbai,98464,5.94,10,47,61,93,7,5,125,58,28,114,20,19,2,39,68,4,11,20
+ASRKba6JKB,GeoPoint,19.0167,72.85,IN,400037,B P T Colony,Maharashtra,Mumbai,Mumbai,133791,9.46,4,40,34,108,3,3,133,53,39,129,24,12,2,34,87,5,13,24
+xUoCzY2yHX,GeoPoint,19.0167,72.85,IN,400037,Antop Hill,Maharashtra,Mumbai,Mumbai,63137,2.42,9,47,36,86,5,4,130,65,32,103,22,15,1,32,69,4,15,20
+3Q6LhAcHXD,GeoPoint,19.0832,72.8748,IN,400042,Bhandup East,Maharashtra,Mumbai,,89584,18.95,8,47,58,109,6,1,126,46,39,110,16,16,4,31,88,4,12,19
+S2FBWvO988,GeoPoint,18.9596,72.8496,IN,400043,Shivaji Nagar (Mumbai),Maharashtra,Mumbai,,57322,2.54,9,23,31,110,3,3,101,70,26,126,22,18,2,30,72,3,15,16
+ljUoGdQjfC,GeoPoint,19.0637,72.9254,IN,400043,D.M. Colony,Maharashtra,Mumbai,,80625,6.51,5,33,62,83,4,5,130,68,30,128,18,19,1,29,79,2,12,29
+oKhBpuD89j,GeoPoint,18.9596,72.8496,IN,400049,Juhu,Maharashtra,Mumbai,Mumbai,164488,6.52,7,23,59,102,9,1,102,42,23,139,17,15,1,30,75,2,12,17
+bqVIsLA1NQ,GeoPoint,18.9292,72.8856,IN,400050,Bandra West,Maharashtra,Mumbai,Mumbai,183830,5.43,5,53,52,90,6,1,137,56,17,138,17,20,1,40,71,4,14,17
+P6OVQRzNsU,GeoPoint,18.9596,72.8496,IN,400051,Kherwadi,Maharashtra,Mumbai,Mumbai,10305,0.27,9,43,53,94,2,3,134,53,42,143,21,10,4,29,76,1,15,17
+Ate9JySe98,GeoPoint,19.0587,72.8452,IN,400051,Bandra(East),Maharashtra,Mumbai,Mumbai,154553,5.72,6,45,45,89,10,1,113,63,15,108,18,18,3,34,52,3,14,22
+EpURFJUMNF,GeoPoint,19.0587,72.8452,IN,400051,B.N. Bhavan,Maharashtra,Mumbai,Mumbai,112957.6667,4.256666667,6,22,63,107,8,4,114,56,40,104,25,14,2,29,50,4,15,20
+SZCBgDgC2Q,GeoPoint,19.0587,72.8452,IN,400051,Audit Bhavan,Maharashtra,Mumbai,Bandra,174015,6.78,5,23,36,99,2,4,92,57,35,138,15,15,5,27,50,4,11,24
+N4JYkDgwPl,GeoPoint,18.7997,72.926,IN,400052,V.P. Road,Maharashtra,Mumbai,Mumbai,96900,2.15,10,34,33,91,10,1,105,44,19,114,25,19,1,29,80,4,14,21
+r4VraVIuBM,GeoPoint,18.7997,72.926,IN,400052,Khar Delivery,Maharashtra,Mumbai,Mumbai,96900,2.15,8,41,43,89,10,5,114,54,31,135,18,18,3,26,69,3,12,22
+2IzcDhRd7x,GeoPoint,18.7997,72.926,IN,400052,Khar Colony,Maharashtra,Mumbai,Mumbai,96900,2.15,9,33,30,96,4,4,125,52,21,107,25,19,4,37,82,2,14,24
+KKEkhSyK44,GeoPoint,18.9596,72.8496,IN,400052,Danda,Maharashtra,Mumbai,Mumbai,96900,2.15,7,46,52,99,3,2,128,44,21,103,15,15,5,31,68,3,14,30
+JceDbMCCwD,GeoPoint,18.9292,72.8856,IN,400053,Azad Nagar (Mumbai),Maharashtra,Mumbai,Mumbai,19681,0.44,8,29,32,82,2,2,123,62,30,125,16,13,5,32,96,5,14,15
+ZD90S5COBY,GeoPoint,18.9292,72.8856,IN,400053,Andheri H.O,Maharashtra,Mumbai,Mumbai,183297,9.48,4,50,44,97,7,2,125,58,33,103,25,16,5,26,64,5,14,26
+ALDoBucdjS,GeoPoint,18.9292,72.8856,IN,400054,Santacruz(West),Maharashtra,Mumbai,Mumbai,80980,1.71,6,48,36,95,2,4,98,48,21,126,15,15,3,36,53,5,10,24
+RR48nCk3C0,GeoPoint,18.9292,72.8856,IN,400054,Santacruz Central,Maharashtra,Mumbai,Mumbai,80980,1.71,6,52,46,106,8,5,90,46,18,140,18,13,5,32,81,5,14,28
+PvI1ZvDvwq,GeoPoint,18.9292,72.8856,IN,400055,Vakola,Maharashtra,Mumbai,Mumbai,58212,1.72,7,50,66,92,8,5,120,49,19,148,21,12,5,28,97,4,11,25
+5BpotmjlF1,GeoPoint,18.9292,72.8856,IN,400055,Santacruz(East),Maharashtra,Mumbai,Mumbai,88691,2.44,4,48,59,110,9,1,113,56,29,141,20,18,4,28,53,2,14,24
+XHwTgtmBwA,GeoPoint,18.9292,72.8856,IN,400056,Vileparle(West),Maharashtra,Mumbai,Mumbai,57374,1.36,7,36,42,84,5,5,99,65,27,103,16,16,3,38,75,2,15,19
+Up6duMDZ4s,GeoPoint,18.9596,72.8496,IN,400056,IRLA,Maharashtra,Mumbai,Mumbai,57374,1.36,8,29,51,106,8,4,113,59,14,135,25,19,2,39,69,2,11,18
+EkZnl5UUMt,GeoPoint,18.9292,72.8856,IN,400057,Vileparle Railway Station,Maharashtra,Mumbai,Mumbai,101723,2.01,5,39,32,88,2,3,134,54,31,106,20,19,2,28,85,5,10,22
+ZMpUB9r8SN,GeoPoint,18.9292,72.8856,IN,400057,Vileeparle (East),Maharashtra,Mumbai,Mumbai,101723,2.01,10,42,49,83,2,1,96,69,18,105,25,17,3,35,87,1,12,28
+aMCVmSE9GD,GeoPoint,18.9292,72.8856,IN,400057,Hanuman Road,Maharashtra,Mumbai,Mumbai,101723,2.01,7,38,56,110,4,1,111,64,28,114,22,13,4,32,58,1,11,18
+YGghbMCIDf,GeoPoint,18.9292,72.8856,IN,400058,H.M.P. School,Maharashtra,Mumbai,Mumbai,130819,3.69,10,42,30,87,3,3,122,68,19,107,19,15,2,26,87,4,14,23
+F4bP4jOtPB,GeoPoint,18.9292,72.8856,IN,400058,Andheri Railway Station,Maharashtra,Mumbai,Mumbai,130819,3.69,9,36,39,95,2,4,118,68,30,120,18,13,5,27,78,2,12,23
+UI35QE6fkS,GeoPoint,18.9292,72.8856,IN,400059,Marol Naka,Maharashtra,Mumbai,Mumbai,,,4,40,66,106,4,2,121,59,16,134,15,17,2,35,62,1,11,21
+jpnRMWEise,GeoPoint,18.9292,72.8856,IN,400059,Marol Bazar,Maharashtra,Mumbai,Mumbai,,,6,49,64,80,4,1,122,44,42,125,23,17,2,34,74,2,15,23
+Az11b6WpNA,GeoPoint,18.9292,72.8856,IN,400059,J.B. Nagar,Maharashtra,Mumbai,Mumbai,,,8,23,53,104,5,2,127,67,25,118,15,11,5,36,61,4,13,20
+ZzPXGKIjjx,GeoPoint,19.1699,72.8504,IN,400060,Jogeshwari East,Maharashtra,Mumbai,Jogeshwari East,,,7,28,59,84,10,1,102,60,24,150,24,16,4,29,54,2,11,19
+i7suJWGgpl,GeoPoint,18.9596,72.8496,IN,400061,Vesava,Maharashtra,Mumbai,Mumbai,,,4,50,55,85,4,1,120,51,28,116,17,20,5,35,79,4,15,22
+FJ7V7bLOBJ,GeoPoint,18.9596,72.8496,IN,400061,Madh,Maharashtra,Mumbai,Mumbai,,,5,50,39,97,10,5,132,46,11,112,15,15,1,39,63,4,13,19
+f7fkMHeQo7,GeoPoint,19.1624,72.8694,IN,400063,Sharma Estate,Maharashtra,Mumbai,Goregaon East,,,6,33,54,101,6,4,122,52,40,107,25,20,4,31,60,4,13,18
+eN97jMr0vM,GeoPoint,18.9596,72.8496,IN,400063,Goregaon East,Maharashtra,Mumbai,Goregaon East,,,10,20,58,107,6,1,109,40,39,142,20,19,1,39,65,4,13,21
+h0Gr2GJwUW,GeoPoint,19.197,72.845,IN,400064,Orlem,Maharashtra,Mumbai,Malad West,,,6,31,53,107,8,2,91,47,32,120,22,11,5,25,51,1,15,27
+DIfS0BtUTZ,GeoPoint,19.197,72.845,IN,400064,Malad West Dely,Maharashtra,Mumbai,Malad West,,,7,44,30,95,7,4,109,66,11,110,24,13,5,27,65,1,12,23
+wczlyut4BF,GeoPoint,18.9596,72.8496,IN,400064,Malad,Maharashtra,Mumbai,Malad West,,,8,54,67,80,10,5,100,45,41,103,25,16,2,38,54,1,12,26
+dWsb8nTpPZ,GeoPoint,19.197,72.845,IN,400064,Liberty Garden,Maharashtra,Mumbai,Malad West,,,10,37,69,107,6,3,140,61,25,123,23,14,2,32,51,5,12,22
+en6mBcTFFH,GeoPoint,19.1699,72.8504,IN,400065,S R P F Camp,Maharashtra,Mumbai,Jogeshwari East,,,6,52,54,104,10,3,98,40,23,132,16,15,1,35,81,5,10,24
+xnTYIcaHVT,GeoPoint,19.1699,72.8504,IN,400065,Nagari Niwara,Maharashtra,Mumbai,Goregaon East,,,4,43,53,108,8,3,126,60,40,129,19,17,2,40,69,1,10,25
+gvpztDom9q,GeoPoint,19.1699,72.8504,IN,400065,Aareymilk Colony,Maharashtra,Mumbai,Goregaon East,,,10,24,54,83,9,1,107,63,23,108,23,10,3,33,91,2,15,17
+koSlNGcsa9,GeoPoint,19.1699,72.8504,IN,400066,S. K.Nagar,Maharashtra,Mumbai,Borivali East,,,5,47,30,108,2,2,136,64,36,103,20,13,2,39,89,1,11,15
+TCJDjwFifl,GeoPoint,19.1699,72.8504,IN,400066,Rajendra Nagar (Mumbai),Maharashtra,Mumbai,Borivali East,,,6,36,41,104,5,5,134,61,20,144,22,13,4,27,61,3,15,20
+PzQwOcnGBo,GeoPoint,19.1699,72.8504,IN,400066,Magthane,Maharashtra,Mumbai,Borivali East,,,5,50,56,96,5,4,90,59,26,145,17,16,3,34,70,5,12,19
+Blmc2szjL0,GeoPoint,19.1699,72.8504,IN,400066,Daulat Nagar (Mumbai),Maharashtra,Mumbai,Borivali East,,,6,51,40,93,5,2,108,51,16,111,21,17,1,38,88,2,13,21
+H6zejoGpyz,GeoPoint,19.1699,72.8504,IN,400066,Borivali East,Maharashtra,Mumbai,Borivlai East,,,4,38,31,110,3,5,98,70,18,143,18,12,5,36,85,5,13,22
+9OAVDMTIYC,GeoPoint,19.1699,72.8504,IN,400067,Kandivali West,Maharashtra,Mumbai,Kandivali West,,,6,41,57,102,7,4,106,63,33,140,18,14,1,25,68,2,10,21
+NAvE53BFns,GeoPoint,19.1699,72.8504,IN,400067,Kandivali RS,Maharashtra,Mumbai,Mumbai,,,10,28,56,98,8,5,127,56,32,138,17,17,2,29,74,2,12,19
+SANGWbn1XR,GeoPoint,19.1699,72.8504,IN,400067,Charkop,Maharashtra,Mumbai,Kandivlai West,,,4,30,50,94,2,2,104,53,12,119,18,10,4,36,94,4,13,28
+G6O9gC3KEx,GeoPoint,18.9596,72.8496,IN,400068,Ketkipada,Maharashtra,Mumbai,Dahisar East,,,6,20,68,91,10,1,128,55,42,141,22,13,1,38,71,3,14,25
+3IRlUMdzk2,GeoPoint,19.2565,72.8733,IN,400068,Dahisar RS,Maharashtra,Mumbai,Dahisar West,,,10,23,52,85,10,4,107,69,25,133,20,13,1,32,60,5,11,16
+IgHDFWP2wP,GeoPoint,19.2565,72.8733,IN,400068,Dahisar,Maharashtra,Mumbai,Dahisar East,,,6,42,65,106,8,4,127,66,18,142,18,15,4,25,65,5,10,29
+vO7e9OtOL2,GeoPoint,19.1145,72.8712,IN,400069,Nagardas Road,Maharashtra,Mumbai,Mumbai,,,4,30,42,98,2,4,109,41,17,106,20,16,1,26,58,4,11,28
+vRxqJNOKb5,GeoPoint,18.9596,72.8496,IN,400069,Andheri East,Maharashtra,Mumbai,Mumbai,,,6,53,65,96,2,5,120,43,45,132,21,12,3,29,76,3,12,21
+8KEXTRUX2q,GeoPoint,19.0713,72.883,IN,400070,Netajinagar,Maharashtra,Mumbai,Chembur,,,7,29,33,82,6,5,138,57,12,136,18,12,5,32,87,3,15,19
+tbOVPbPKEB,GeoPoint,19.0713,72.883,IN,400070,Kurla North,Maharashtra,Mumbai,Chembur,,,9,46,31,104,5,4,97,61,28,110,20,20,4,26,81,3,10,22
+R5AyZ2lbtv,GeoPoint,18.9596,72.8496,IN,400070,Kurla,Maharashtra,Mumbai,Chembur,,,4,55,69,80,2,4,108,52,24,101,22,15,4,35,62,1,11,24
+qdfVU8Zfgw,GeoPoint,19.0931,72.9049,IN,400071,Sindhi Society,Maharashtra,Mumbai,,,,9,30,50,85,10,1,131,53,31,145,25,20,5,32,53,5,14,30
+aQleKiFsQQ,GeoPoint,19.0931,72.9049,IN,400071,Chembur H.O,Maharashtra,Mumbai,,,,8,37,59,104,3,5,107,42,35,137,20,19,1,26,82,3,12,24
+t1v21Fk6yD,GeoPoint,19.0931,72.9049,IN,400072,Vihar Road,Maharashtra,Mumbai,Chembur,,,7,32,67,105,8,5,97,67,14,101,23,12,1,36,65,5,14,21
+c0TSpAcXfZ,GeoPoint,19.0931,72.9049,IN,400072,Sakinaka,Maharashtra,Mumbai,Chembur,,,4,41,40,80,5,5,96,41,41,148,23,18,3,40,97,2,13,30
+tQ4TjsYzEd,GeoPoint,19.0931,72.9049,IN,400074,Mahul Road,Maharashtra,Mumbai,,,,8,38,67,91,5,3,115,63,17,142,18,18,5,39,85,1,11,19
+SVMLv06H2h,GeoPoint,19.0931,72.9049,IN,400074,FCI,Maharashtra,Mumbai,,,,9,51,45,104,10,2,114,59,28,119,21,18,2,28,52,5,12,16
+lEYLn3XJA3,GeoPoint,19.0931,72.9049,IN,400074,Chembur Extension,Maharashtra,Mumbai,,,,8,37,65,94,7,5,137,63,26,125,25,15,2,30,94,4,14,20
+OsqB5XLzpQ,GeoPoint,19.0931,72.9049,IN,400075,R.A.Nagar,Maharashtra,Mumbai,,,,9,21,59,86,4,4,96,60,36,146,19,17,1,25,71,5,10,30
+jicHlwyrDq,GeoPoint,19.0931,72.9049,IN,400075,Pant Nagar,Maharashtra,Mumbai,,,,6,33,66,98,8,2,93,63,11,148,15,18,5,28,91,3,12,28
+8dCQmY0iWy,GeoPoint,19.0931,72.9049,IN,400075,Best Staff Colony,Maharashtra,Mumbai,,,,10,32,33,107,8,3,130,53,16,136,25,13,5,30,100,1,12,19
+V3kbNXPjtn,GeoPoint,19.0931,72.9049,IN,400076,Powai Iit,Maharashtra,Mumbai,,,,5,24,50,94,8,4,135,69,35,144,18,13,1,29,56,1,10,19
+TeFoSZyqE4,GeoPoint,18.9596,72.8496,IN,400077,Rajawadi,Maharashtra,Mumbai,,,,4,36,48,80,2,1,125,57,11,110,15,14,5,40,88,1,15,21
+XopIE93UUt,GeoPoint,19.0931,72.9049,IN,400078,Usha Nagar,Maharashtra,Mumbai,,,,9,40,35,100,7,3,116,48,37,149,17,10,1,34,66,2,13,29
+estsN5tEGH,GeoPoint,19.0931,72.9049,IN,400078,P.H. Colony,Maharashtra,Mumbai,,,,5,53,38,101,3,1,96,65,11,140,25,18,3,29,94,2,13,28
+vb2tC4VIpp,GeoPoint,19.0931,72.9049,IN,400078,J.M. Road,Maharashtra,Mumbai,,,,5,48,66,87,8,2,138,49,32,112,18,16,3,30,64,2,13,21
+HLPdRQ4fQT,GeoPoint,19.0931,72.9049,IN,400078,Bhandup West,Maharashtra,Mumbai,,,,7,29,57,108,10,3,121,56,31,113,19,15,5,37,55,4,12,29
+qXklpmG27q,GeoPoint,19.0931,72.9049,IN,400078,Bhandup Ind. Estate,Maharashtra,Mumbai,,,,7,41,45,109,9,3,94,44,33,140,15,17,2,38,82,1,14,19
+oxHTJSPt26,GeoPoint,18.9596,72.8496,IN,400079,Vikhroli,Maharashtra,Mumbai,,,,5,51,63,102,7,5,126,61,35,142,18,13,5,27,68,2,15,28
+4tUdEt6Cbu,GeoPoint,19.1149,72.9267,IN,400079,Psm Colony,Maharashtra,Mumbai,,,,10,24,45,109,7,3,120,42,43,102,23,12,3,39,92,3,12,28
+eS23Yc12Jw,GeoPoint,19.176,72.9522,IN,400080,S.B. Road,Maharashtra,Mumbai,,,,4,41,53,105,7,2,139,68,29,112,20,11,3,37,81,2,13,25
+F8x08PsLus,GeoPoint,19.176,72.9522,IN,400080,Nehru Road (Mumbai),Maharashtra,Mumbai,,,,7,40,53,109,2,5,103,67,14,103,23,11,2,33,65,4,14,26
+IAIRQYUUuS,GeoPoint,19.176,72.9522,IN,400080,Nahur,Maharashtra,Mumbai,,,,4,50,50,99,9,1,104,44,15,123,16,11,4,35,61,2,14,30
+r2vlVpmvYD,GeoPoint,18.9596,72.8496,IN,400080,Mulund West,Maharashtra,Mumbai,,,,9,36,47,88,9,3,121,42,25,139,20,13,5,38,92,3,12,20
+ErHwB4TbVH,GeoPoint,19.176,72.9522,IN,400080,Mulund Dd Road,Maharashtra,Mumbai,,,,9,26,68,110,9,1,126,68,33,145,20,20,5,39,54,4,13,25
+RIjBhdQ66F,GeoPoint,18.9596,72.8496,IN,400081,Mulund East,Maharashtra,Mumbai,,,,10,22,37,80,2,1,100,43,32,108,20,16,2,28,51,2,13,27
+faKEBcESpn,GeoPoint,19.1649,72.9608,IN,400081,Mhada Colony,Maharashtra,Mumbai,,,,9,22,54,83,9,4,127,43,43,112,20,12,4,33,80,1,13,16
+ORg9x9VG23,GeoPoint,19.1247,72.9488,IN,400082,Mulund Colony,Maharashtra,Mumbai,,,,7,49,45,82,9,2,98,50,16,129,20,16,2,31,79,5,10,23
+E4O6HaGrB7,GeoPoint,19.1247,72.9488,IN,400082,Bhandup Complex,Maharashtra,Mumbai,,,,5,55,36,86,6,3,132,47,15,130,17,18,5,39,98,1,13,22
+ETumUqD2QW,GeoPoint,19.1247,72.9488,IN,400083,Tagore Nagar,Maharashtra,Mumbai,,,,7,40,67,82,2,2,135,52,43,135,22,20,4,29,74,5,12,17
+f8gs5Oj6lB,GeoPoint,19.1247,72.9488,IN,400083,Kannamwar Nagar,Maharashtra,Mumbai,,,,5,47,57,91,10,4,99,40,31,108,17,16,5,28,89,4,11,24
+XXlGiAEzih,GeoPoint,19.1247,72.9488,IN,400084,Barve Nagar,Maharashtra,Mumbai,,,,6,34,52,95,4,3,136,40,33,130,22,14,2,30,79,5,14,20
+juSApahu3V,GeoPoint,19.1247,72.9488,IN,400085,BARC,Maharashtra,Mumbai,Mumbai,,,9,32,61,106,10,3,138,46,33,135,23,19,3,27,71,4,12,17
+jCDuk5LfHH,GeoPoint,19.1247,72.9488,IN,400086,Sahakar Bhavan,Maharashtra,Mumbai,,,,6,31,60,95,8,4,105,63,43,132,16,11,4,26,79,4,11,15
+WyNN4P2kW8,GeoPoint,19.1247,72.9488,IN,400086,Rifle Range,Maharashtra,Mumbai,,,,10,52,32,102,2,3,115,63,31,132,16,16,1,35,85,1,14,20
+7SB0VQiSkI,GeoPoint,19.1247,72.9488,IN,400086,Ghatkopar West,Maharashtra,Mumbai,,,,8,43,64,80,2,1,131,58,22,101,16,13,4,36,77,2,14,22
+CQnMJkvNEG,GeoPoint,19.1247,72.9488,IN,400087,NITIE,Maharashtra,Mumbai,Mumbai,,,4,43,47,99,8,1,99,59,28,117,24,13,1,39,77,5,14,26
+DQ7D8fRyqs,GeoPoint,18.9596,72.8496,IN,400088,Trombay,Maharashtra,Mumbai,,,,5,28,55,106,3,1,136,57,11,142,25,17,3,35,59,2,11,22
+SCqEkDCjVE,GeoPoint,19.0333,72.9333,IN,400088,T.F.Donar,Maharashtra,Mumbai,,,,7,39,67,98,3,3,132,51,41,107,24,16,5,28,74,2,10,21
+BlgbnB02zd,GeoPoint,19.0333,72.9333,IN,400088,Govandi,Maharashtra,Mumbai,,,,4,32,66,108,6,5,95,64,14,143,15,10,4,36,71,1,12,16
+3RjfYvFBSv,GeoPoint,19.1247,72.9488,IN,400089,Tilak Nagar (Mumbai),Maharashtra,Mumbai,,,,4,42,56,109,8,3,116,61,34,135,17,13,5,32,66,5,12,29
+SheCygVIUO,GeoPoint,19.1247,72.9488,IN,400089,Chembur Rs,Maharashtra,Mumbai,,,,6,23,61,96,8,1,110,40,32,142,15,10,3,25,72,5,10,29
+eAiHtHaoh9,GeoPoint,19.2361,72.8338,IN,400091,Borivali H.O,Maharashtra,Mumbai,Borivali West,,,9,51,52,109,2,2,121,60,11,145,21,19,2,32,56,4,14,24
+rOEepUCxJm,GeoPoint,18.9596,72.8496,IN,400092,Borivali West,Maharashtra,Mumbai,Borivali West,,,5,29,49,98,6,5,123,55,31,106,18,15,3,35,98,2,15,17
+3oBUv30BX5,GeoPoint,19.2361,72.8338,IN,400093,Chakala Midc,Maharashtra,Mumbai,Mumbai,,,4,52,30,81,5,3,138,55,43,104,18,19,1,25,69,1,14,28
+VhOF3flYy1,GeoPoint,19.2361,72.8338,IN,400094,Anushakti Nagar,Maharashtra,Mumbai,,,,9,33,50,88,5,3,122,65,17,149,19,20,5,28,56,5,14,20
+C84ZzfuXTV,GeoPoint,19.2361,72.8338,IN,400095,Kharodi,Maharashtra,Mumbai,Malad West,,,8,25,45,82,5,4,132,48,17,134,20,10,4,38,83,3,10,24
+RZhystpC6U,GeoPoint,19.2361,72.8338,IN,400095,Ins Hamla,Maharashtra,Mumbai,Malad West,,,4,40,39,96,8,5,91,62,22,106,19,10,5,37,74,2,10,26
+lODlF2syKz,GeoPoint,19.2361,72.8338,IN,400096,Seepz,Maharashtra,Mumbai,Mumbai,,,5,27,64,82,5,1,127,49,41,135,17,11,3,32,53,5,10,15
+Z4HgFvUyPJ,GeoPoint,19.2361,72.8338,IN,400097,Rani Sati Marg,Maharashtra,Mumbai,Malad East,,,9,53,51,108,8,1,125,66,33,145,19,11,2,39,97,2,11,17
+SCRcJkxqt8,GeoPoint,19.2361,72.8338,IN,400097,Malad East,Maharashtra,Mumbai,Malad East,,,6,54,54,82,3,3,122,46,36,128,23,19,1,30,60,5,12,22
+bDNMJO9STP,GeoPoint,19.2361,72.8338,IN,400098,Vidyanagari,Maharashtra,Mumbai,Mumbai,,,5,54,51,104,2,1,98,68,44,126,24,13,1,27,70,1,11,21
+Uz3TRZlAmm,GeoPoint,19.2361,72.8338,IN,400099,Sahargaon,Maharashtra,Mumbai,Mumbai,,,9,46,52,85,9,5,104,44,15,103,19,14,5,30,79,3,11,16
+rdOw65bnr1,GeoPoint,19.2361,72.8338,IN,400099,Sahar P & T Colony,Maharashtra,Mumbai,Mumbai,,,6,34,64,87,2,3,104,43,13,116,22,10,5,36,77,2,13,30
+vpwGpJe1BM,GeoPoint,19.2361,72.8338,IN,400099,International Airport,Maharashtra,Mumbai,Mumbai,,,9,27,66,100,4,5,117,47,29,107,25,13,4,35,76,5,12,24
+IBGyhOcBxk,GeoPoint,19.2361,72.8338,IN,400099,Airport (Mumbai),Maharashtra,Mumbai,Mumbai,,,9,42,31,89,6,2,132,62,20,118,15,20,4,29,77,2,15,16
+9DqC6XdyQ3,GeoPoint,19.1624,72.8694,IN,400101,Kandivali East Extn Counter,Maharashtra,Mumbai,Mumbai,,,6,28,47,104,7,5,106,58,35,103,20,17,1,34,72,3,13,22
+ZSJTLYpE0s,GeoPoint,19.1624,72.8694,IN,400101,Kandivali East,Maharashtra,Mumbai,Kandivali East,,,7,43,30,84,2,1,139,64,28,121,18,18,4,31,85,2,13,20
+Bz6TESZke0,GeoPoint,19.1624,72.8694,IN,400102,Oshiwara,Maharashtra,Mumbai,Jogeshwari West,,,6,54,61,81,9,4,136,44,35,101,17,15,3,27,68,5,10,15
+A01yDSpbuu,GeoPoint,19.1624,72.8694,IN,400102,Jogeshwari West,Maharashtra,Mumbai,Jogeshwari West,,,6,43,66,90,4,4,136,61,37,146,15,19,1,33,58,3,11,17
+5LCyB3Pt3b,GeoPoint,19.1624,72.8694,IN,400103,Mandapeshwar,Maharashtra,Mumbai,Borivali West,,,8,21,31,100,10,4,129,49,10,130,17,15,5,30,73,3,11,29
+xjze1hxKr6,GeoPoint,19.1624,72.8694,IN,400104,Motilal Nagar,Maharashtra,Mumbai,Goregaon West,,,6,35,54,108,4,4,124,43,11,135,23,15,5,36,88,4,15,25
+IkDx8MuNVE,GeoPoint,19.1624,72.8694,IN,400104,Goregaon RS,Maharashtra,Mumbai,Goregaon West,,,9,46,54,95,8,5,92,50,19,144,17,17,2,25,95,3,15,24
+TBmDr7uxNm,GeoPoint,18.9596,72.8496,IN,400104,Goregaon (Mumbai),Maharashtra,Mumbai,Goregaon West,,,10,35,38,101,5,2,120,49,26,114,16,17,2,35,73,3,11,25
+xOXsENt8c6,GeoPoint,19.1624,72.8694,IN,400104,Bangur Nagar,Maharashtra,Mumbai,Goregaon West,,,9,28,36,104,5,3,102,59,27,110,18,14,4,33,51,1,11,22
+B7zamR5GUQ,GeoPoint,19.1941,73.0002,IN,400601,Thane R.S.,Maharashtra,Thane,Thane,,,8,34,39,100,6,1,119,63,16,115,18,11,5,39,86,4,10,18
+jBmGYC3UHD,GeoPoint,19.1941,73.0002,IN,400601,Thane H.O,Maharashtra,Thane,Thane,,,5,46,39,92,9,4,113,67,31,138,18,18,2,38,50,3,13,30
+Ph3XmkwdA0,GeoPoint,19.1941,73.0002,IN,400601,Thane Bazar,Maharashtra,Thane,Thane,,,4,46,37,97,10,4,112,47,38,120,19,14,4,36,70,2,10,24
+PAzUqhncsV,GeoPoint,19.1941,73.0002,IN,400602,Naupada (Thane),Maharashtra,Thane,Thane,,,7,34,47,91,6,3,101,59,20,105,17,20,4,37,96,2,14,25
+58VZZYCmqS,GeoPoint,19.1941,73.0002,IN,400602,Gokhale Road (Thane),Maharashtra,Thane,,,,10,37,67,81,3,3,123,60,40,129,15,18,2,34,68,3,12,20
+4oeRWf52DG,GeoPoint,19.1941,73.0002,IN,400603,Thane East,Maharashtra,Thane,Thane,,,9,49,54,106,3,2,95,45,33,102,19,10,2,38,93,4,10,18
+BCttO9yG6A,GeoPoint,19.1941,73.0002,IN,400603,Kopri Colony,Maharashtra,Thane,Thane,,,8,37,61,95,2,4,90,70,42,108,16,14,4,27,98,1,12,29
+LzvcCNO7Hp,GeoPoint,19.1941,73.0002,IN,400604,Wagle I.E.,Maharashtra,Thane,Thane,,,9,54,53,97,2,2,136,44,12,122,22,12,5,35,77,2,13,17
+ttHOZa7jkI,GeoPoint,19.1941,73.0002,IN,400605,Kalwa,Maharashtra,Thane,Thane,,,5,46,40,102,3,3,118,56,18,105,21,20,2,27,69,4,14,28
+FWcbn9Kafm,GeoPoint,19.1941,73.0002,IN,400606,Jekegram,Maharashtra,Thane,Thane,,,5,54,41,84,3,1,100,53,30,119,22,18,2,36,72,4,14,29
+eFZFyryARf,GeoPoint,19.1941,73.0002,IN,400607,Sandozbaugh,Maharashtra,Thane,Thane,,,10,46,70,86,3,5,123,66,15,137,22,14,5,34,66,1,12,25
+Sl2NHNwXvW,GeoPoint,19.1941,73.0002,IN,400607,Chitalsar Manpada,Maharashtra,Thane,Thane,,,8,42,34,108,7,2,114,59,31,147,24,20,2,31,100,5,14,28
+ICWCjnvkMX,GeoPoint,19.1941,73.0002,IN,400608,Tapasenagar,Maharashtra,Thane,Thane,,,8,53,57,80,2,2,100,53,25,146,15,15,4,27,85,4,14,18
+edetgFTzfA,GeoPoint,19.1941,73.0002,IN,400608,Shrirangnagar,Maharashtra,Thane,Thane,,,10,38,43,87,7,3,131,64,41,143,18,13,5,32,83,3,15,26
+YqwJg237nh,GeoPoint,19.1941,73.0002,IN,400608,Balkum,Maharashtra,Thane,,,,9,47,65,96,4,5,134,65,16,150,20,20,1,36,72,3,11,27
+Y61NDJbbGF,GeoPoint,19.1941,73.0002,IN,400610,Apna Bazar,Maharashtra,Thane,,,,8,40,38,107,7,3,133,54,37,124,23,15,5,35,68,2,13,18
+mQWSE4u1hv,GeoPoint,19.1941,73.0002,IN,400612,Waklan,Maharashtra,Thane,Thane,,,4,40,36,96,4,1,121,54,12,122,16,13,5,37,63,4,15,15
+rlYCu9sUMo,GeoPoint,19.1941,73.0002,IN,400612,Mumbra,Maharashtra,Thane,Thane,,,5,36,40,91,4,2,106,52,21,113,20,19,2,40,86,3,13,20
+VUCNahFryq,GeoPoint,19.1941,73.0002,IN,400612,Kausa,Maharashtra,Thane,Thane,,,8,31,70,90,6,5,136,63,36,117,24,18,1,27,61,5,11,25
+SYCURTM88Q,GeoPoint,19.1941,73.0002,IN,400612,Diwa,Maharashtra,Thane,Thane,,,4,30,48,97,10,3,130,40,14,149,18,18,3,40,54,1,10,29
+5ClCWnGdg7,GeoPoint,19.1941,73.0002,IN,400612,Dawale,Maharashtra,Thane,Thane,,,4,37,63,102,7,5,117,47,31,121,20,20,1,31,77,3,10,18
+7lMQbkMWEO,GeoPoint,19.1941,73.0002,IN,400612,Dahisar,Maharashtra,Thane,Thane,,,7,24,51,105,5,2,98,59,42,133,19,10,1,31,87,4,14,18
+Qmy6qmCnsm,GeoPoint,19.1941,73.0002,IN,400614,Konkan Bhavan,Maharashtra,Thane,,,,6,50,62,82,6,1,115,56,35,142,22,16,3,31,96,1,14,22
+XO3jSGf1Lm,GeoPoint,19.1941,73.0002,IN,400614,Belapur Node-- III,Maharashtra,Thane,,,,9,29,64,100,10,1,90,55,23,144,23,18,4,39,74,5,14,27
+EEPAIF8MO7,GeoPoint,19.1941,73.0002,IN,400614,Belapur Node- V,Maharashtra,Thane,,,,8,22,50,100,8,2,131,41,14,109,23,14,4,25,92,1,10,20
+fbG1xGz9o3,GeoPoint,19.1941,73.0002,IN,400615,Kasarvadavali,Maharashtra,Thane,Thane,,,8,45,56,92,5,4,103,62,35,106,18,20,3,34,66,2,10,15
+01jH62A411,GeoPoint,19.1941,73.0002,IN,400615,Ghodbunder Road,Maharashtra,Thane,Thane,,,6,20,53,105,9,5,102,40,41,106,17,13,1,26,87,1,14,22
+xAJNUju6H7,GeoPoint,19.1167,72.9833,IN,400701,Ghansoli,Maharashtra,Thane,Rabale,,,9,30,49,104,5,1,106,64,23,100,16,18,4,31,60,4,14,28
+ziqECNOw3d,GeoPoint,18.8781,72.9392,IN,400702,Uran,Maharashtra,Raigarh(MH),Uran,,,7,21,46,106,7,5,118,53,25,130,15,10,4,32,63,1,13,27
+Fl5epq3geW,GeoPoint,18.9436,72.9577,IN,400702,Sheva,Maharashtra,Raigarh(MH),Uran,,,8,44,46,104,4,5,116,40,29,137,18,14,5,26,77,3,15,21
+bOysNfLE1S,GeoPoint,18.8975,72.9407,IN,400702,ONGC-dronagiri,Maharashtra,Raigarh(MH),Uran,,,9,38,62,102,3,5,121,55,35,149,17,17,2,34,96,1,10,20
+UdXRD7A4Mb,GeoPoint,18.8957,72.9131,IN,400702,Kegaon,Maharashtra,Raigarh(MH),Uran,,,10,35,51,89,10,5,104,46,14,109,15,13,3,28,61,5,13,21
+rjHMfgsbrB,GeoPoint,18.8833,72.9167,IN,400702,Karanja,Maharashtra,Raigarh(MH),Uran,,,7,48,49,87,7,5,94,57,45,129,16,19,3,27,73,5,15,29
+Ynl4eJknHw,GeoPoint,18.8975,72.9407,IN,400702,Chanje,Maharashtra,Raigarh(MH),Uran,,,8,42,54,93,7,4,108,61,43,106,22,13,3,32,87,1,14,21
+4EqPVtPSUP,GeoPoint,18.887,72.9766,IN,400702,Bokadvira,Maharashtra,Raigarh(MH),Uran,,,5,32,40,88,2,1,129,51,12,113,18,13,1,31,93,5,15,19
+YQQuBIGI4s,GeoPoint,19.0787,73.0005,IN,400703,Vashi-VII,Maharashtra,Thane,,,,6,31,46,80,6,3,122,68,38,105,25,15,2,30,55,2,11,24
+JFTMuTieLE,GeoPoint,19.0787,73.0005,IN,400703,Vashi Sec-26,Maharashtra,Thane,,,,9,51,38,101,5,3,99,66,26,101,20,18,1,34,94,5,12,24
+QNvsjLKq2x,GeoPoint,19.0787,73.0005,IN,400703,Vashi (Thane),Maharashtra,Thane,,,,7,55,38,93,5,2,111,44,19,115,17,13,4,27,63,2,14,22
+GvuKWh3U9u,GeoPoint,19.0787,73.0005,IN,400703,Turbhe Market,Maharashtra,Thane,,,,4,20,43,100,7,2,133,49,13,129,25,11,5,40,81,5,11,26
+0YNl0BJVur,GeoPoint,19.0787,73.0005,IN,400703,Turbhe,Maharashtra,Thane,,,,10,32,39,84,10,1,113,51,24,137,17,20,1,37,90,5,13,30
+WHqzVoZqLX,GeoPoint,19.0787,73.0005,IN,400703,Sanpada,Maharashtra,Thane,Thane,,,7,52,36,92,8,1,90,48,14,125,21,11,1,33,100,2,11,19
+FG86ctCf1K,GeoPoint,19.0787,73.0005,IN,400703,K.U.Bazar,Maharashtra,Thane,,,,6,35,38,91,5,1,101,62,16,111,16,10,4,37,65,3,14,17
+ug3Uc5T4YS,GeoPoint,18.9086,72.9299,IN,400704,N.S.Karanja,Maharashtra,Raigarh(MH),Uran,,,9,25,65,100,6,1,94,60,18,122,21,12,2,27,50,2,14,26
+0uK8RNOUo1,GeoPoint,18.9086,72.9299,IN,400704,Mora,Maharashtra,Raigarh(MH),Uran,,,4,29,56,80,9,2,136,58,18,136,17,20,2,27,69,2,14,20
+dYjhkNzqLN,GeoPoint,18.9894,72.961,IN,400706,Nerul Sec-48,Maharashtra,Thane,,,,8,44,56,107,2,3,105,69,18,112,21,11,4,39,56,2,10,26
+eSiq8o6g6u,GeoPoint,18.9894,72.961,IN,400706,Nerul Node-III,Maharashtra,Thane,,,,9,20,36,95,2,3,119,46,31,108,22,18,2,34,89,3,13,16
+snyrYekU9x,GeoPoint,18.9894,72.961,IN,400706,Nerul Node-II,Maharashtra,Thane,,,,8,38,68,94,2,5,91,50,39,146,25,13,1,35,80,3,12,17
+NUxwTdBuTw,GeoPoint,18.9894,72.961,IN,400706,Darave,Maharashtra,Thane,Thane,,,10,23,40,80,5,1,97,69,32,126,15,19,5,33,63,4,15,16
+6jjWCaMrtI,GeoPoint,18.9894,72.961,IN,400707,Navghar,Maharashtra,Raigarh(MH),Uran,,,9,40,64,108,5,3,124,62,21,110,21,11,1,31,61,3,11,22
+M4z86BQeRc,GeoPoint,18.9894,72.961,IN,400707,Jnpt,Maharashtra,Raigarh(MH),Uran,,,4,47,39,105,6,5,116,43,39,121,23,16,1,31,93,2,13,15
+H2ZJrCbBot,GeoPoint,18.9894,72.961,IN,400707,Jaskhar,Maharashtra,Raigarh(MH),Uran,,,8,24,51,102,4,4,116,61,39,130,21,17,3,35,51,4,12,22
+kzwP4DZ8q8,GeoPoint,19.151,72.9962,IN,400708,Airoli,Maharashtra,Thane,Thane,,,8,23,62,89,2,3,130,43,21,111,21,15,1,40,54,5,15,16
+HY4G1RdCuB,GeoPoint,19.151,72.9962,IN,400708,Airoli,Maharashtra,Thane,Digha,,,7,33,62,100,9,3,125,66,40,137,18,11,5,38,58,3,14,21
+H3VRxrLBkL,GeoPoint,18.9894,72.961,IN,400709,Kopar Khairne,Maharashtra,Thane,,,,10,38,37,84,7,3,107,48,26,112,16,19,2,32,89,5,13,17
+DrZiry22bC,GeoPoint,18.9894,72.961,IN,400710,Millenium Business Park,Maharashtra,Thane,,,,4,50,56,102,4,1,107,45,16,124,15,15,4,32,82,4,10,30
+gMaTTuN2Sy,GeoPoint,19.4115,73.396,IN,401101,Rai,Maharashtra,Thane,Vasai,,,5,40,42,108,9,1,102,52,11,103,23,17,3,27,63,5,13,28
+6nuX9IMIwr,GeoPoint,19.4115,73.396,IN,401101,Bhayander West,Maharashtra,Thane,Thane,,,4,22,30,82,3,5,96,54,13,112,21,11,2,36,98,3,12,20
+1Y1p3VYe8X,GeoPoint,19.4226,74.3807,IN,401102,Virathan Budruk,Maharashtra,Thane,Palghar,,,9,40,70,97,7,5,127,61,15,109,18,14,2,33,56,5,15,16
+XLKy3bRUgo,GeoPoint,19.4226,74.3807,IN,401102,Usarani,Maharashtra,Thane,Palghar,,,7,27,59,80,3,4,90,46,10,131,24,16,3,40,96,5,14,19
+D8mDsoMRMR,GeoPoint,19.4756,73.076,IN,401102,Umbarpada,Maharashtra,Thane,Palghar,,,8,43,43,106,3,2,139,50,36,118,23,16,5,29,64,1,13,30
+QSDp7XHmOO,GeoPoint,19.4226,74.3807,IN,401102,Tembhikhodave,Maharashtra,Thane,Palghar,,,6,26,42,102,3,5,99,61,17,120,17,16,4,35,82,5,13,19
+WdIaMUcPxf,GeoPoint,19.5992,73.1509,IN,401102,Tandulwadi,Maharashtra,Thane,Palghar,,,8,20,30,90,6,1,128,42,26,147,18,20,1,31,69,4,10,28
+EcSS6Bnvxs,GeoPoint,19.5992,73.1509,IN,401102,Pargaon,Maharashtra,Thane,Palghar,,,10,27,56,96,10,5,113,54,45,123,24,17,5,39,75,1,13,21
+UI2DpXRI0F,GeoPoint,19.4226,74.3807,IN,401102,Navghar,Maharashtra,Thane,Palghar,,,5,42,70,90,5,1,95,59,42,128,25,10,3,27,84,4,10,20
+JHa0pDZA9u,GeoPoint,19.4226,74.3807,IN,401102,Edwan,Maharashtra,Thane,Palghar,,,6,30,48,89,2,4,105,43,16,116,21,11,5,30,73,5,12,18
+byLJZtABEV,GeoPoint,19.4226,74.3807,IN,401102,Dhekale,Maharashtra,Thane,Palghar,,,4,21,37,85,7,3,121,56,18,112,25,16,3,26,62,5,13,20
+9eqEk4VYl9,GeoPoint,19.4226,74.3807,IN,401102,Datiware,Maharashtra,Thane,Palghar,,,9,37,56,110,6,5,131,41,40,107,18,18,5,29,95,5,12,30
+55zEWlWVOo,GeoPoint,19.4226,74.3807,IN,401102,Dahisar tymanor,Maharashtra,Thane,Palghar,,,4,29,63,101,8,5,97,58,17,142,15,13,3,38,79,4,14,15
+qEu3yJAqWm,GeoPoint,19.4226,74.3807,IN,401102,Agarwadi,Maharashtra,Thane,Mokhada,,,7,34,54,102,7,5,131,46,29,121,25,20,2,39,98,3,13,18
+vBStDQbXNN,GeoPoint,19.8762,72.7627,IN,401103,Vangaon,Maharashtra,Thane,Palghar,,,10,42,43,80,7,3,137,48,44,114,23,18,4,34,81,4,12,18
+rEI7HFKYsv,GeoPoint,19.6574,73.0343,IN,401103,Gowane,Maharashtra,Thane,Dahanu,,,4,40,45,101,9,4,126,66,39,139,23,18,1,32,56,1,13,29
+QtdIknmuWM,GeoPoint,19.6574,73.0343,IN,401103,Chandigaon,Maharashtra,Thane,Dahanu,,,8,44,55,94,5,1,124,43,14,142,18,18,2,36,64,4,10,27
+ZDnB9yN4Q2,GeoPoint,19.6574,73.0343,IN,401103,Bavada,Maharashtra,Thane,Dahanu,,,4,28,48,93,10,3,91,46,41,102,16,20,3,40,97,5,11,28
+AVrBtrTGLf,GeoPoint,19.4387,73.3059,IN,401103,Asangaon,Maharashtra,Thane,Dahanu,,,5,20,59,83,4,5,111,51,29,123,18,18,5,29,66,2,11,20
+0b1chAlkgr,GeoPoint,19.4115,73.396,IN,401105,Bhayander East,Maharashtra,Thane,Thane,,,10,33,39,83,5,2,118,68,44,149,25,11,1,29,76,2,12,22
+IE2YxGvAtn,GeoPoint,19.2691,72.8096,IN,401106,Uttan,Maharashtra,Thane,Thane,,,5,47,50,101,6,1,98,50,28,139,20,10,2,30,95,5,10,29
+z9OwoLvFcm,GeoPoint,19.285,72.8086,IN,401106,Dongri,Maharashtra,Thane,Vasai,,,5,30,70,106,10,1,115,40,17,143,22,16,4,31,65,4,12,27
+L4nct9euit,GeoPoint,19.2836,72.8675,IN,401107,Mira Road,Maharashtra,Thane,Thane,,,8,34,44,102,8,2,132,41,12,122,20,12,4,31,100,4,13,30
+V7T4dCUD5H,GeoPoint,19.2836,72.8675,IN,401107,Mira,Maharashtra,Thane,Thane,,,7,50,46,104,9,2,116,45,40,119,21,19,1,31,61,5,10,16
+NW8ZNp3BmX,GeoPoint,19.2836,72.8675,IN,401107,Kashi,Maharashtra,Thane,Vasai,,,7,28,54,90,6,3,138,69,37,113,15,11,1,31,50,1,12,22
+9pvvE6RLWN,GeoPoint,19.2836,72.8675,IN,401107,Ghodbander,Maharashtra,Thane,Vasai,,,5,46,64,106,4,3,109,60,27,124,17,20,5,37,63,3,12,26
+u6WbkNLR8y,GeoPoint,19.4191,72.9126,IN,401201,Saloli,Maharashtra,Thane,Vasai,,,5,37,60,91,4,4,111,41,25,106,16,20,4,33,97,2,10,23
+AWwrRcJnJ6,GeoPoint,19.4191,72.9126,IN,401201,Mulgaon,Maharashtra,Thane,Vasai,,,7,49,37,90,8,3,105,70,29,107,19,11,1,31,83,5,10,30
+IdQtMCgD1A,GeoPoint,19.4191,72.9126,IN,401201,Kaular Budruk,Maharashtra,Thane,Vasai,,,6,31,48,84,2,1,135,59,31,134,25,11,5,29,85,2,13,27
+7OOYcAkKk4,GeoPoint,19.4191,72.9126,IN,401201,Holi Bazar,Maharashtra,Thane,Vasai,,,7,44,70,102,10,3,98,59,25,112,18,17,4,29,93,1,10,28
+hBakz0EHEA,GeoPoint,19.4191,72.9126,IN,401201,Girij,Maharashtra,Thane,Vasai,,,5,32,44,98,9,1,122,59,43,126,15,16,5,37,78,4,12,26
+nu8XPzyMtL,GeoPoint,19.4191,72.9126,IN,401201,Bhuigaon,Maharashtra,Thane,Vasai,,,9,55,36,86,4,5,101,48,18,140,18,14,5,40,91,3,13,16
+Gtqbh3ituw,GeoPoint,19.4191,72.9126,IN,401201,Bassein,Maharashtra,Thane,Bassein,,,10,37,66,107,9,4,107,66,10,126,16,18,1,25,79,1,13,15
+ZOQFJr7s1I,GeoPoint,19.4191,72.9126,IN,401202,Vasai Road E,Maharashtra,Thane,Vasai,,,9,28,51,100,2,3,123,65,10,133,18,17,4,34,68,4,14,25
+xd63wbYfOn,GeoPoint,19.4191,72.9126,IN,401202,Umela,Maharashtra,Thane,Vasai,,,6,35,37,99,9,4,115,67,11,142,25,16,4,27,75,4,10,21
+aPHyNAbQpp,GeoPoint,19.4191,72.9126,IN,401202,Bassein Road,Maharashtra,Thane,Bassein,,,9,28,36,89,10,3,127,61,32,101,16,16,3,30,84,4,13,21
+MupO0cdQBi,GeoPoint,19.4158,72.8008,IN,401203,Umrale,Maharashtra,Thane,Vasai,,,5,34,47,89,4,4,130,43,16,134,24,18,1,39,73,2,12,19
+e82xHVIlRQ,GeoPoint,19.4158,72.8008,IN,401203,Sopara,Maharashtra,Thane,Vasai,,,6,39,61,86,2,2,125,58,28,119,20,10,2,28,95,1,15,24
+LSu8wBkNGt,GeoPoint,19.5992,73.1509,IN,401203,Nala,Maharashtra,Thane,Vasai,,,10,43,53,90,5,5,108,50,10,143,18,17,4,29,95,4,14,19
+tUUMyfevBN,GeoPoint,19.4158,72.8008,IN,401203,Gass,Maharashtra,Thane,Vasai,,,7,36,66,101,8,4,93,68,43,146,16,15,2,36,54,3,11,22
+4eILJyH7Zh,GeoPoint,19.4869,73.0277,IN,401204,Vedhe,Maharashtra,Thane,Bhiwandi,,,7,48,54,96,2,2,99,61,25,115,23,11,5,30,50,5,15,28
+moDcgrgVSq,GeoPoint,19.4869,73.0277,IN,401204,Vajreshwari,Maharashtra,Thane,Bhiwandi,,,7,29,31,90,10,2,117,62,13,114,25,13,3,31,84,2,14,27
+C2O2mh5bjK,GeoPoint,19.4869,73.0277,IN,401204,Khaniwali,Maharashtra,Thane,Vada,,,8,53,46,105,10,4,92,67,42,106,25,13,4,34,54,5,10,25
+8l549brCDq,GeoPoint,19.4869,73.0277,IN,401204,Kelthan,Maharashtra,Thane,Vada,,,8,35,55,105,5,5,122,64,11,118,16,20,3,31,65,1,12,24
+QZEn2zUY2a,GeoPoint,19.4191,72.9126,IN,401206,Ganeshpuri,Maharashtra,Thane,Bhiwandi,,,4,55,60,96,8,3,105,41,42,103,16,20,1,36,84,4,12,29
+qFxglfKQgF,GeoPoint,19.4191,72.9126,IN,401207,Papdi,Maharashtra,Thane,Vasai,,,10,40,40,99,5,5,129,50,16,130,21,18,2,28,63,4,15,23
+dWqkIjJYHU,GeoPoint,19.5992,73.1509,IN,401207,Naigaon,Maharashtra,Thane,Vasai,,,10,49,67,89,5,4,131,66,24,119,16,15,3,30,65,4,12,30
+MaCwGTsIaG,GeoPoint,19.3547,72.9094,IN,401208,Vasai East IE,Maharashtra,Thane,Vasai,,,4,48,42,109,6,3,138,46,25,130,24,14,1,29,71,4,11,15
+oLAlJDF3p3,GeoPoint,19.3547,72.9094,IN,401208,Valiv,Maharashtra,Thane,Vasai,,,8,28,46,93,6,4,119,50,43,129,21,16,4,38,64,1,10,30
+w4cwV9P5wX,GeoPoint,19.3547,72.9094,IN,401208,Satiwai,Maharashtra,Thane,Vasai,,,7,27,37,103,2,4,121,48,28,126,25,11,5,31,65,4,15,29
+73QOi0mDr5,GeoPoint,19.3547,72.9094,IN,401208,Sasun Navghar,Maharashtra,Thane,Vasai,,,7,22,65,99,6,3,137,41,19,136,20,18,2,34,52,5,11,24
+ecuXF588aN,GeoPoint,19.3547,72.9094,IN,401208,Rajawali,Maharashtra,Thane,Vasai,,,5,51,55,88,5,4,95,53,24,149,22,11,4,34,52,4,14,25
+yA7g3YVZlP,GeoPoint,19.3547,72.9094,IN,401208,Pelhar,Maharashtra,Thane,Vasai,,,7,31,36,100,2,5,118,50,17,150,24,17,4,38,75,1,14,21
+30HCfIP5h2,GeoPoint,19.3547,72.9094,IN,401208,Kaman,Maharashtra,Thane,Vasai,,,10,54,49,105,4,2,109,45,43,132,23,19,2,35,81,4,11,28
+PsKeBVqwjB,GeoPoint,19.3547,72.9094,IN,401208,Juchandra,Maharashtra,Thane,Vasai,,,10,44,45,99,10,4,134,51,24,105,24,14,3,38,60,1,13,24
+dCHOnSoEkE,GeoPoint,19.3547,72.9094,IN,401208,Gokhiware,Maharashtra,Thane,Vasai,,,7,20,51,87,10,2,136,56,27,104,15,12,5,25,66,1,10,16
+G0YuZuI0re,GeoPoint,19.4191,72.9126,IN,401209,Nallosapare E,Maharashtra,Thane,Vasai,,,8,37,40,110,9,2,97,51,10,131,20,11,2,28,51,2,14,17
+7bNLTSFUQz,GeoPoint,19.5992,73.1509,IN,401301,Vatar,Maharashtra,Thane,Vasai,,,8,24,55,94,7,3,94,53,12,105,20,10,5,38,54,3,10,24
+ciN8AajeQo,GeoPoint,19.1455,73.474,IN,401301,Kophrad,Maharashtra,Thane,Vasai,,,6,40,58,97,2,5,105,40,30,140,18,17,1,29,58,4,11,20
+yR3a7ReWdU,GeoPoint,19.1455,73.474,IN,401301,Chikhal Dongre,Maharashtra,Thane,Vasai,,,5,54,56,92,8,1,94,66,42,140,20,11,1,28,89,4,13,23
+f8LW0qQPx9,GeoPoint,19.1455,73.474,IN,401301,Agashi,Maharashtra,Thane,Vasai,,,10,39,67,86,7,5,122,43,18,106,22,14,5,28,80,4,13,29
+lJ6X0Hkj6U,GeoPoint,19.45,72.75,IN,401302,Arnala,Maharashtra,Thane,Vasai,,,5,52,31,83,6,5,93,69,27,150,23,10,1,40,76,5,11,15
+MCNWfcy78U,GeoPoint,19.4559,72.8114,IN,401303,Virar,Maharashtra,Thane,Vasai,,,6,32,43,83,9,2,92,69,30,123,25,14,4,26,82,4,13,27
+9ebNKGeiUD,GeoPoint,19.467,72.8546,IN,401303,Tilher,Maharashtra,Thane,Vasai,,,4,33,54,107,7,4,124,46,22,128,24,18,2,37,54,2,10,24
+r47wzNydP5,GeoPoint,19.5992,73.1509,IN,401303,Saiwan,Maharashtra,Thane,Vasai,,,6,36,33,109,4,2,118,69,34,105,24,19,4,30,100,4,10,18
+qvJ8a2UfQf,GeoPoint,19.467,72.8546,IN,401303,Parol,Maharashtra,Thane,Vasai,,,10,44,41,91,5,3,122,42,21,109,24,19,1,40,72,1,12,23
+N3OX08geKl,GeoPoint,19.4782,72.8979,IN,401303,Mandvi,Maharashtra,Thane,Vasai,,,7,37,39,92,6,2,102,53,21,130,16,14,1,27,61,2,13,25
+5ujkEV2JtF,GeoPoint,19.467,72.8546,IN,401303,Khaniwade,Maharashtra,Thane,Palghar,,,8,22,69,81,6,3,111,41,15,139,16,13,2,27,93,1,11,30
+1FSfK0VLO2,GeoPoint,19.467,72.8546,IN,401303,Dahtsar T,Maharashtra,Thane,Palghar,,,9,29,54,94,8,4,97,59,31,149,20,14,1,37,81,4,11,26
+xMRs4qNdy6,GeoPoint,19.467,72.8546,IN,401303,Chandansar,Maharashtra,Thane,Vasai,,,10,25,40,101,6,5,135,44,17,105,25,16,2,26,88,5,13,16
+JxGRj5Ak9E,GeoPoint,19.467,72.8546,IN,401303,Bolinj,Maharashtra,Thane,Vasai,,,4,25,63,99,2,1,128,53,26,137,15,16,2,25,50,1,14,21
+5mDrXap4Kp,GeoPoint,19.467,72.8546,IN,401303,Bhatane,Maharashtra,Thane,Vasai,,,4,36,59,110,2,1,131,47,14,124,15,12,3,36,52,5,12,16
+ep76EuMj8N,GeoPoint,19.4004,72.7651,IN,401304,Nirmal (Thane),Maharashtra,Thane,Vasai,,,9,48,46,109,5,5,122,63,37,136,25,15,2,31,73,3,13,30
+rnQLGieBb9,GeoPoint,19.5992,73.1509,IN,401304,Kalamb,Maharashtra,Thane,Vasai,,,8,52,33,93,2,4,135,40,42,148,15,12,3,33,70,4,12,25
+2fP3Slucdw,GeoPoint,19.3291,73.109,IN,401305,Virar East,Maharashtra,Thane,Vasai,,,7,38,48,92,9,3,117,44,41,120,22,18,5,32,74,4,15,16
+Qtqwg1VXqt,GeoPoint,19.2259,72.8782,IN,401401,Kelwa Road,Maharashtra,Thane,Palghar,,,4,51,45,86,3,1,99,50,28,104,22,11,4,34,78,1,12,24
+fLW30bbbJM,GeoPoint,19.2259,72.8782,IN,401401,Kelwa (Thane),Maharashtra,Thane,Palghar,,,8,23,40,109,4,1,118,60,37,143,15,12,2,30,64,3,10,21
+IcMk3gMzEK,GeoPoint,19.2259,72.8782,IN,401402,Kelwa-mahim,Maharashtra,Thane,Palghar,,,10,24,64,92,6,1,97,43,35,144,21,20,3,39,62,2,12,26
+7VrxbMz7AH,GeoPoint,19.7244,72.9097,IN,401403,Somta,Maharashtra,Thane,Palghar,,,9,21,47,93,5,1,91,69,17,143,22,16,3,31,72,2,13,19
+VEpYmKwSgW,GeoPoint,19.7244,72.9097,IN,401403,Maswan,Maharashtra,Thane,Palghar,,,10,47,31,87,6,3,116,49,43,142,22,19,3,36,50,5,14,20
+Ff3Npw6xw5,GeoPoint,19.7244,72.9097,IN,401403,Manor,Maharashtra,Thane,Palghar,,,6,41,38,104,4,5,90,50,10,128,22,20,5,29,97,3,10,28
+H9OVKQyRVz,GeoPoint,19.7244,72.9097,IN,401403,Kurze,Maharashtra,Thane,Vikramgad,,,5,26,68,107,6,1,126,45,24,101,17,11,2,28,100,4,11,26
+rr8PWsBeV7,GeoPoint,19.5992,73.1509,IN,401403,Kondhan,Maharashtra,Thane,Palghar,,,8,40,53,96,9,3,114,61,25,124,24,12,1,25,91,4,13,25
+XW4w0V9F1J,GeoPoint,19.7244,72.9097,IN,401403,Kev,Maharashtra,Thane,Vikramgad,,,7,36,57,94,7,4,103,65,31,121,25,20,3,25,71,1,13,19
+tmfUcltqyv,GeoPoint,19.7244,72.9097,IN,401403,Govade,Maharashtra,Thane,Palghar,,,10,22,51,88,3,3,101,42,10,105,16,15,4,39,62,4,14,17
+ZxCKC25FbD,GeoPoint,19.7244,72.9097,IN,401403,Durves,Maharashtra,Thane,Palghar,,,7,39,68,99,8,1,139,57,11,119,25,16,4,39,93,1,11,25
+YIDLNMeGHi,GeoPoint,19.7244,72.9097,IN,401403,Bhopoli,Maharashtra,Thane,Vikramgad,,,4,32,49,92,4,5,109,44,37,140,25,15,1,31,81,5,13,30
+GIefjNaAcq,GeoPoint,19.7244,72.9097,IN,401403,Bandhan,Maharashtra,Thane,Palghar,,,9,48,31,110,3,5,92,70,24,138,20,15,2,40,68,1,13,30
+N4w1Y875yt,GeoPoint,19.7244,72.9097,IN,401403,Audhani,Maharashtra,Thane,Palghar,,,9,34,61,99,9,5,93,52,26,133,17,20,5,32,63,1,13,26
+rytIMblBNC,GeoPoint,19.2259,72.8782,IN,401404,Palghar H.O,Maharashtra,Thane,Palghar,,,6,52,37,89,2,2,90,52,31,113,16,14,3,33,76,5,12,30
+6LdNxltGCE,GeoPoint,19.0597,72.8677,IN,401405,Veur,Maharashtra,Thane,Vasai,,,5,39,65,96,5,2,98,59,44,112,19,19,3,27,59,2,13,17
+v78nd0vfWE,GeoPoint,19.0597,72.8677,IN,401405,Tembhode,Maharashtra,Thane,Vasai,,,10,52,48,95,5,5,111,56,11,116,18,14,5,40,61,1,15,28
+OCn1BW1Pl1,GeoPoint,19.6959,72.7153,IN,401405,Shirgaon,Maharashtra,Thane,Palghar,,,6,22,66,103,7,2,134,69,12,142,23,10,3,32,74,2,10,20
+wIdtlOkeHC,GeoPoint,19.724,72.6997,IN,401405,Satpati,Maharashtra,Thane,Palghar,,,4,55,35,105,4,5,90,54,29,115,19,11,1,25,99,3,10,17
+YETD7aiKT3,GeoPoint,19.0597,72.8677,IN,401405,Nihe,Maharashtra,Thane,Palghar,,,10,50,50,80,2,1,109,57,21,122,22,18,1,33,86,1,15,29
+tIBAm0MQTL,GeoPoint,19.0597,72.8677,IN,401405,Nadore,Maharashtra,Thane,Palghar,,,6,50,43,80,2,4,122,44,45,104,15,16,5,34,71,2,12,18
+TMxXzxcjpQ,GeoPoint,19.0597,72.8677,IN,401405,Kharekuran,Maharashtra,Thane,Palghar,,,6,22,51,103,9,2,106,55,39,115,24,13,1,25,56,1,13,29
+cr6X7HEehf,GeoPoint,19.0597,72.8677,IN,401405,Katale,Maharashtra,Thane,Palghar,,,8,29,67,96,8,3,137,69,12,122,16,17,5,34,54,1,14,28
+FcgP9v8Yft,GeoPoint,19.5992,73.1509,IN,401405,Dapoli,Maharashtra,Thane,Palghar,,,4,38,54,107,2,5,119,66,15,126,25,10,5,29,70,4,14,21
+jzqEkEpGeJ,GeoPoint,19.8036,72.756,IN,401501,Umroli,Maharashtra,Thane,Palghar,,,5,28,44,106,8,5,122,48,36,108,15,16,2,36,92,2,10,25
+9Sf8PybxwS,GeoPoint,19.8036,72.756,IN,401501,Shigaon,Maharashtra,Thane,Palghar,,,7,55,64,94,2,2,129,60,40,115,20,16,3,38,61,5,10,15
+51iZZNM6YS,GeoPoint,19.8036,72.756,IN,401501,Sarawali,Maharashtra,Thane,Palghar,,,6,53,40,103,7,5,93,53,24,119,24,13,2,34,76,2,12,29
+HooOcdbACg,GeoPoint,19.8036,72.756,IN,401501,Nandgaon Tarapur,Maharashtra,Thane,Palghar,,,10,28,49,103,5,1,108,40,36,150,17,20,3,30,51,4,11,23
+FCdjqGXi72,GeoPoint,19.8036,72.756,IN,401501,Nanapur,Maharashtra,Thane,Palghar,,,8,43,57,105,3,3,140,60,30,127,20,13,5,28,81,2,15,15
+v1pYIkZqpM,GeoPoint,19.8036,72.756,IN,401501,Murbe,Maharashtra,Thane,Palghar,,,10,39,61,86,8,3,132,70,18,127,23,15,1,25,77,4,15,18
+BPkIGnC95m,GeoPoint,19.5992,73.1509,IN,401501,Mahagaon,Maharashtra,Thane,Palghar,,,8,35,66,110,6,1,120,65,26,145,23,14,4,25,51,4,12,20
+tNQXEKusdF,GeoPoint,19.8036,72.756,IN,401501,Kumbhawali,Maharashtra,Thane,Palghar,,,8,34,51,81,6,5,139,65,27,117,23,14,1,33,77,1,12,21
+ZpSeMIksKq,GeoPoint,19.8036,72.756,IN,401501,Dandi,Maharashtra,Thane,Palghar,,,7,24,68,110,5,5,114,69,17,115,25,12,4,25,89,3,14,28
+v0QeVf5HKY,GeoPoint,19.8036,72.756,IN,401501,Boisar,Maharashtra,Thane,Palghar,,,7,39,60,108,9,1,139,64,33,114,21,19,1,27,98,3,13,27
+3NLqrVbIqU,GeoPoint,19.8036,72.756,IN,401501,Bategaon,Maharashtra,Thane,Palghar,,,6,34,35,93,5,3,119,55,18,119,17,14,2,25,79,4,15,25
+oC7zKUG23l,GeoPoint,19.8036,72.756,IN,401501,Akkarpatti,Maharashtra,Thane,Dahanu,,,7,31,55,102,10,4,96,55,18,104,18,14,3,40,61,4,15,18
+4g64gufq0V,GeoPoint,19.8318,72.8891,IN,401502,Vengani,Maharashtra,Thane,Palghar,,,10,27,35,105,2,2,113,58,25,123,17,14,1,28,70,1,15,29
+dwOQeGmiCS,GeoPoint,19.865,72.6843,IN,401502,Tarapur (Thane),Maharashtra,Thane,Palghar,,,9,42,60,91,10,1,140,70,10,117,21,20,4,27,73,5,14,24
+6Wf6UD83SA,GeoPoint,19.7986,73.094,IN,401502,Kudan,Maharashtra,Thane,Palghar,,,4,45,54,85,3,2,138,57,25,133,21,11,3,34,65,3,14,24
+3qqq9YPSgV,GeoPoint,19.8318,72.8891,IN,401502,Ghiwali,Maharashtra,Thane,Palghar,,,10,53,54,80,5,5,110,55,20,101,22,12,3,32,94,3,11,25
+EFcJSIT4IJ,GeoPoint,19.8318,72.8891,IN,401502,Dahisar Tarapur,Maharashtra,Thane,Palghar,,,8,44,42,89,8,4,125,49,45,121,22,19,4,26,64,2,15,19
+ktH9SIkO6W,GeoPoint,19.8746,72.6851,IN,401503,Varor,Maharashtra,Thane,Dahanu,,,8,47,55,106,6,2,113,42,41,145,19,10,1,40,99,3,14,28
+G2fPr1X4U9,GeoPoint,19.8746,72.6851,IN,401503,Vadhavan,Maharashtra,Thane,Dahanu,,,6,41,30,88,5,2,94,53,18,108,15,17,3,25,85,4,10,17
+Ht5S1mpN4S,GeoPoint,19.8746,72.6851,IN,401503,Tanashi,Maharashtra,Thane,Dahanu,,,6,52,49,107,7,2,107,47,28,117,20,17,4,27,86,2,13,21
+H80YRceHfK,GeoPoint,19.8746,72.6851,IN,401503,Chinchani,Maharashtra,Thane,Dahanu,,,5,48,62,91,8,3,118,43,12,122,19,17,1,33,91,4,14,17
+rxM95krs83,GeoPoint,19.8354,72.8048,IN,401504,Tarapur App,Maharashtra,Thane,Palghar,,,5,26,59,97,10,5,118,43,39,129,23,12,5,33,100,2,10,22
+DSqcEOEqdN,GeoPoint,19.8354,72.8048,IN,401504,Salwad,Maharashtra,Thane,Palghar,,,10,37,58,97,10,1,122,69,11,141,20,14,2,35,100,5,10,19
+ZDRy5ULG2i,GeoPoint,19.8354,72.8048,IN,401504,Parnali,Maharashtra,Thane,Palghar,,,4,31,30,107,8,5,103,64,29,141,23,13,5,26,80,5,14,20
+VimakueRfF,GeoPoint,19.8354,72.8048,IN,401506,Tarapur Ti,Maharashtra,Thane,Palghar,,,8,41,52,105,9,2,112,61,15,110,22,19,2,40,74,3,13,25
+tZpz0BSuxI,GeoPoint,19.9678,72.7126,IN,401601,Narpad,Maharashtra,Thane,Dahanu,,,7,28,68,83,2,5,118,49,40,107,15,13,1,27,76,3,15,27
+3POoFtLvQP,GeoPoint,19.5992,73.1509,IN,401601,Dahanu,Maharashtra,Thane,Dahanu,,,9,41,39,108,7,1,100,68,10,120,25,14,5,34,73,3,12,19
+iGc3FIZAJi,GeoPoint,19.9678,72.7126,IN,401601,Badapokharan,Maharashtra,Thane,Dahanu,,,4,28,39,89,4,2,137,65,34,113,17,11,4,36,81,3,15,16
+h4utn5pbtJ,GeoPoint,19.5992,73.1509,IN,401602,Waki,Maharashtra,Thane,Dahanu,,,8,52,69,85,3,5,124,64,33,134,17,16,1,29,88,2,14,22
+FG4TZ6MC5h,GeoPoint,19.7623,73.5785,IN,401602,Urse,Maharashtra,Thane,Dahanu,,,10,44,38,106,3,1,126,61,30,111,19,10,5,33,89,3,15,15
+tHOz7cWeS7,GeoPoint,19.7623,73.5785,IN,401602,Sawata,Maharashtra,Thane,Dahanu,,,10,31,59,97,4,2,106,68,19,117,18,17,5,32,96,5,13,17
+RDZxWpsULp,GeoPoint,19.5992,73.1509,IN,401602,Saiwan,Maharashtra,Thane,Dahanu,,,9,55,59,108,7,4,132,46,37,114,18,16,1,36,56,2,14,30
+BDApr95205,GeoPoint,19.7623,73.5785,IN,401602,Ranshet,Maharashtra,Thane,Dahanu,,,6,40,40,88,2,3,128,61,36,130,22,13,5,36,64,2,10,26
+P3ud17vhYH,GeoPoint,19.7623,73.5785,IN,401602,Nikane,Maharashtra,Thane,Dahanu,,,7,50,58,106,3,2,109,47,33,129,16,18,2,38,97,1,15,20
+xVIU6aEjZo,GeoPoint,19.7623,73.5785,IN,401602,Karaj Gaon,Maharashtra,Thane,Talasari,,,6,28,42,95,7,4,101,51,22,129,24,12,4,26,83,4,11,17
+7LcneRNEXx,GeoPoint,19.7623,73.5785,IN,401602,Kainad,Maharashtra,Thane,Dahanu,,,4,45,38,84,4,1,122,61,32,107,15,20,3,39,67,2,11,22
+O37Zzzvbdt,GeoPoint,19.7623,73.5785,IN,401602,Jamshet,Maharashtra,Thane,Mokhada,,,4,36,40,97,2,4,130,56,10,124,21,14,3,39,86,2,10,16
+6ex6wY3PFq,GeoPoint,19.7623,73.5785,IN,401602,Ganjad,Maharashtra,Thane,Dahanu,,,4,26,32,81,3,3,135,49,27,131,18,19,3,39,90,5,11,28
+VtHY3wHaco,GeoPoint,19.7623,73.5785,IN,401602,Dahanu Road,Maharashtra,Thane,Dahanu,,,6,38,57,80,9,4,105,60,23,116,18,14,5,27,65,2,10,27
+mkhczwu2Zs,GeoPoint,19.7623,73.5785,IN,401602,Chikhale,Maharashtra,Thane,Dahanu,,,8,45,42,99,5,5,140,61,21,104,24,14,5,40,79,4,11,17
+wnBPmHtDvU,GeoPoint,19.7623,73.5785,IN,401602,Charoti,Maharashtra,Thane,Dahanu,,,10,23,51,87,10,2,130,41,18,149,18,14,1,27,53,4,12,19
+3qVIG0gEWU,GeoPoint,19.7623,73.5785,IN,401602,Bapugaon,Maharashtra,Thane,Dahanu,,,8,54,67,110,5,5,90,69,22,126,19,10,2,35,84,2,12,17
+t4fSckPw7o,GeoPoint,19.7623,73.5785,IN,401602,Ashagad,Maharashtra,Thane,Dahanu,,,7,25,47,87,4,5,127,67,35,149,22,17,2,33,77,4,10,16
+Lm6B8EhgjI,GeoPoint,19.7623,73.5785,IN,401602,Agawan,Maharashtra,Thane,Mokhada,,,7,42,31,90,3,4,115,41,34,106,21,17,3,37,60,2,13,27
+YCltOzctrR,GeoPoint,19.9243,73.3195,IN,401603,Zap,Maharashtra,Thane,Jawhar,,,5,29,39,102,2,1,131,45,14,133,17,20,2,32,61,1,15,27
+k8OPNWeERZ,GeoPoint,19.9243,73.3195,IN,401603,Valvande,Maharashtra,Thane,Jawhar,,,5,20,69,100,10,4,120,54,18,112,23,18,2,31,65,3,12,29
+4K79HEfBx3,GeoPoint,19.4019,73.6094,IN,401603,Shiroshi,Maharashtra,Thane,Jawhar,,,8,27,44,87,7,3,140,52,30,104,20,15,1,35,97,5,12,29
+TJJ2gQ6FOI,GeoPoint,19.9243,73.3195,IN,401603,Sankhare,Maharashtra,Thane,Vikramgad,,,6,45,52,88,2,3,134,67,39,148,23,10,1,33,63,4,11,18
+EBCBrCVsh8,GeoPoint,19.9243,73.3195,IN,401603,Sakharshet,Maharashtra,Thane,Jawhar,,,7,48,43,81,4,1,120,47,43,115,22,20,5,28,60,1,13,25
+CTFaxCKwv2,GeoPoint,19.9095,72.8126,IN,401603,Sakhare,Maharashtra,Thane,Vikramgad,,,7,28,68,109,8,2,97,60,42,124,22,11,1,37,65,5,15,27
+6kBMlqM7KC,GeoPoint,19.9243,73.3195,IN,401603,Pimpalshet,Maharashtra,Thane,Jawhar,,,10,39,38,109,3,1,109,50,44,106,15,10,4,38,75,2,12,22
+ocHAIm1CyV,GeoPoint,19.5992,73.1509,IN,401603,Pathardi,Maharashtra,Thane,Mokhada,,,7,40,53,89,10,4,108,49,30,116,21,18,1,27,75,4,11,30
+IxGBPf4hfC,GeoPoint,19.9243,73.3195,IN,401603,Nyhale Khurdh,Maharashtra,Thane,Jawhar,,,6,37,36,86,3,3,136,68,32,127,19,15,3,30,92,4,11,30
+AtsUxBrskS,GeoPoint,19.9243,73.3195,IN,401603,Nyhale Budruk,Maharashtra,Thane,Jawhar,,,5,42,35,92,7,3,107,65,23,119,20,19,4,38,92,2,13,16
+AMqJNcosnU,GeoPoint,19.76,72.6884,IN,401603,Nandgaon,Maharashtra,Thane,Jawhar,,,6,38,59,94,10,5,90,40,32,128,25,13,1,31,97,4,12,30
+2uxBEiwi3k,GeoPoint,19.9243,73.3195,IN,401603,Kogade,Maharashtra,Thane,Jawhar,,,6,31,57,110,6,3,107,46,11,100,20,14,3,31,90,2,10,25
+0Nq3aqHnJ2,GeoPoint,19.9243,73.3195,IN,401603,Khuded,Maharashtra,Thane,Vikramgad,,,4,21,48,93,8,3,98,65,40,115,19,15,3,26,90,1,12,27
+NPvwIMmdoI,GeoPoint,19.5992,73.1509,IN,401603,Karhe,Maharashtra,Thane,Vikramgad,,,9,49,50,103,10,2,114,45,45,119,20,14,4,27,81,4,15,16
+8p9zVwheoe,GeoPoint,19.9121,73.2268,IN,401603,Jawhar,Maharashtra,Thane,Jawhar,,,8,43,62,84,6,5,101,54,22,129,20,12,1,31,65,4,15,30
+I8oABbldzW,GeoPoint,19.9243,73.3195,IN,401603,Jamsar,Maharashtra,Thane,Jawhar,,,5,39,49,99,10,5,90,44,20,128,25,16,5,40,61,2,10,27
+M8Bcrq0V2J,GeoPoint,19.9243,73.3195,IN,401603,Dhanoshi,Maharashtra,Thane,Jawhar,,,6,52,70,88,2,1,131,41,42,129,22,18,5,34,78,1,13,27
+bcvEggTdyW,GeoPoint,19.9243,73.3195,IN,401603,Dengachimet,Maharashtra,Thane,Jawhar,,,10,45,66,85,7,2,133,42,37,147,25,14,2,36,65,2,11,18
+aGNQTaU9dT,GeoPoint,19.9243,73.3195,IN,401603,Dehere,Maharashtra,Thane,Jawhar,,,7,33,35,84,2,5,115,56,36,132,21,17,4,32,66,1,11,30
+9y68w3sID2,GeoPoint,19.5992,73.1509,IN,401603,Dabheri,Maharashtra,Thane,Dahanu,,,5,50,62,82,2,5,137,48,19,110,21,16,1,32,100,5,10,22
+n2rx2r8VYR,GeoPoint,19.5422,74.7254,IN,401604,Vashala,Maharashtra,Thane,Mokhada,,,7,36,68,97,10,5,124,67,11,108,15,20,4,35,76,2,11,28
+kuNADHLrBt,GeoPoint,19.5422,74.7254,IN,401604,Udhale,Maharashtra,Thane,Mokhada,,,9,28,63,102,2,5,123,70,40,101,17,10,5,36,93,5,13,29
+xMWCJjucNf,GeoPoint,19.5422,74.7254,IN,401604,Poshera,Maharashtra,Thane,Mokhada,,,7,47,60,101,9,4,108,66,43,142,21,20,3,32,86,4,13,18
+eTDRwC2WU8,GeoPoint,19.5422,74.7254,IN,401604,Morhanda,Maharashtra,Thane,Mokhada,,,5,45,52,89,10,5,93,48,42,123,22,13,2,39,57,1,13,23
+HKaV4OGZAK,GeoPoint,19.9365,73.3403,IN,401604,Mokhada,Maharashtra,Thane,Mokhada,,,10,47,55,84,2,4,93,53,35,123,20,19,2,38,64,1,14,16
+5ohlLHYyve,GeoPoint,19.5422,74.7254,IN,401604,Koch,Maharashtra,Thane,Mokhada,,,6,37,44,93,3,1,103,56,25,129,18,11,2,39,81,1,11,20
+ENNsBYWb7G,GeoPoint,19.5422,74.7254,IN,401604,Khodale,Maharashtra,Thane,Mokhada,,,8,24,69,93,4,5,107,50,42,122,21,17,2,40,52,5,13,30
+qyeKGuRXNO,GeoPoint,19.5422,74.7254,IN,401604,Kharegaon,Maharashtra,Thane,Mokhada,,,8,45,66,108,10,1,91,54,14,125,15,17,4,38,55,1,13,20
+odbOCudpgD,GeoPoint,19.5422,74.7254,IN,401604,Gomghar,Maharashtra,Thane,Mokhada,,,5,33,68,100,10,4,90,54,14,101,18,14,4,39,79,5,14,25
+14pK5Cz9CP,GeoPoint,19.5992,73.1509,IN,401604,Dolhara,Maharashtra,Thane,Mokhada,,,7,40,38,87,2,5,100,68,38,122,20,12,2,33,80,5,14,15
+Dw3HkHRU21,GeoPoint,19.5992,73.1509,IN,401604,Chas,Maharashtra,Thane,Mokhada,,,7,42,68,86,2,2,99,48,35,126,17,10,4,32,61,1,14,27
+3rm6ug2fFf,GeoPoint,19.5422,74.7254,IN,401604,Beriste,Maharashtra,Thane,Mokhada,,,10,41,38,99,2,3,118,60,24,106,19,20,4,38,50,4,10,29
+CjFjaggOUQ,GeoPoint,19.5422,74.7254,IN,401604,Ase,Maharashtra,Thane,Mokhada,,,6,48,56,81,4,5,103,48,32,145,21,14,4,31,85,3,13,16
+BSiAuPX4sX,GeoPoint,19.7623,73.5785,IN,401605,Vikramgad,Maharashtra,Thane,Vikramgad,,,7,37,66,108,5,2,134,70,27,107,15,15,5,34,94,5,12,22
+sMkVOXR3p6,GeoPoint,19.7623,73.5785,IN,401605,Sukhasale,Maharashtra,Thane,Vikramgad,,,10,43,45,81,6,3,111,43,16,134,17,10,3,28,71,2,10,25
+zG6fIFA54Q,GeoPoint,19.7623,73.5785,IN,401605,Ondhe,Maharashtra,Thane,Vikramgad,,,7,46,59,102,8,5,91,52,14,141,25,12,5,31,61,4,14,21
+LmtjAF3pZu,GeoPoint,19.7623,73.5785,IN,401605,Medhi,Maharashtra,Thane,Vikramgad,,,8,41,36,95,2,5,104,61,39,136,20,13,1,28,78,5,12,23
+e8MKa1SuLS,GeoPoint,19.7623,73.5785,IN,401605,Khoste,Maharashtra,Thane,Vikramgad,,,7,45,33,100,8,4,93,52,33,105,15,18,1,31,51,2,10,28
+ZhJj29mKIr,GeoPoint,19.7623,73.5785,IN,401605,Dadade,Maharashtra,Thane,Palghar,,,4,37,57,81,4,5,137,56,13,136,17,13,5,33,66,2,10,26
+y1L2CcqvAd,GeoPoint,19.5949,73.3603,IN,401606,Zari,Maharashtra,Thane,Talasari,,,9,20,64,92,3,5,138,59,15,138,17,14,5,27,83,3,14,22
+pB0QSQ3w53,GeoPoint,19.5949,73.3603,IN,401606,Vevji,Maharashtra,Thane,Talasari,,,4,46,40,107,8,2,95,62,38,109,22,10,3,36,61,3,13,28
+vNAvMCkJCO,GeoPoint,19.5949,73.3603,IN,401606,Uplat,Maharashtra,Thane,Talasari,,,10,38,69,80,2,1,122,45,42,119,17,15,5,40,55,1,11,17
+cPhiuP4R7X,GeoPoint,19.5949,73.3603,IN,401606,Udhave,Maharashtra,Thane,Talasari,,,4,51,34,86,10,4,119,68,39,101,17,15,2,33,62,3,10,22
+QSMyNway6G,GeoPoint,19.5949,73.3603,IN,401606,Talasari,Maharashtra,Thane,Talasari,,,4,35,37,105,3,5,94,62,19,117,17,13,1,32,58,3,15,21
+NJO88oEVoD,GeoPoint,19.5949,73.3603,IN,401606,Modgaon,Maharashtra,Thane,Dahanu,,,5,41,45,94,2,1,112,58,19,139,18,11,1,39,100,3,10,30
+zp5J22CiOp,GeoPoint,19.5949,73.3603,IN,401606,Kurze,Maharashtra,Thane,Vikramgad,,,4,48,46,104,9,2,132,43,33,143,25,15,5,36,92,3,10,19
+nsY8Q7DRch,GeoPoint,19.5949,73.3603,IN,401606,Kochai,Maharashtra,Thane,Talasari,,,4,45,41,97,10,1,120,63,37,113,22,13,3,25,52,5,11,25
+m3D3b3uUiw,GeoPoint,19.5992,73.1509,IN,401606,Girgaon,Maharashtra,Thane,Talasari,,,7,48,67,99,9,1,107,50,14,122,22,16,4,29,58,3,10,27
+JK11HJU63p,GeoPoint,19.285,72.8086,IN,401606,Dongri,Maharashtra,Thane,Talasari,,,8,23,45,101,4,1,130,49,11,143,15,13,1,32,63,3,11,30
+yc9IyO2HNO,GeoPoint,19.5949,73.3603,IN,401606,Dhundalwadi,Maharashtra,Thane,Dahanu,,,4,31,58,99,3,4,108,60,41,123,17,19,5,36,82,3,12,21
+ofbSHW7wxI,GeoPoint,19.5949,73.3603,IN,401606,Dhaniwari,Maharashtra,Thane,Dahanu,,,6,43,54,88,7,2,100,48,33,116,18,19,3,32,57,3,14,24
+zLfOw9GSC0,GeoPoint,19.5992,73.1509,IN,401606,Dabhadi,Maharashtra,Thane,Dahanu,,,5,48,59,95,5,3,130,61,27,100,25,15,1,33,74,5,14,15
+mFJODSA0Hu,GeoPoint,19.5949,73.3603,IN,401606,Acchad,Maharashtra,Thane,Talasari,,,6,31,37,84,4,1,132,53,28,102,18,19,3,31,65,2,15,26
+UKHHgz9OSv,GeoPoint,19.909,72.9531,IN,401607,Veti,Maharashtra,Thane,Vikramgad,,,4,52,43,104,5,3,119,52,19,136,20,19,2,27,78,4,14,20
+HiAiDoLkVt,GeoPoint,19.909,72.9531,IN,401607,Tawa,Maharashtra,Thane,Dahanu,,,9,35,54,93,8,2,134,70,12,102,20,15,5,33,80,2,14,20
+XVt1CyI2XA,GeoPoint,19.909,72.9531,IN,401607,Talawada,Maharashtra,Thane,Vikramgad,,,6,33,44,89,2,3,99,55,21,101,24,19,5,40,98,3,10,28
+s9wZxrp5Ze,GeoPoint,19.909,72.9531,IN,401607,Rankol,Maharashtra,Thane,Dahanu,,,10,24,61,106,6,4,118,57,39,149,19,16,3,26,76,4,12,21
+BnGabTjmtY,GeoPoint,19.909,72.9531,IN,401607,Kasa Budruk,Maharashtra,Thane,Dahanu,,,10,27,49,108,10,3,91,44,43,145,18,18,3,36,80,3,15,24
+CBawkJ8I1o,GeoPoint,19.909,72.9531,IN,401607,Kasa,Maharashtra,Thane,Dahanu,,,6,23,57,83,2,1,91,48,15,137,22,10,5,40,53,3,15,23
+F8RWKmaNxS,GeoPoint,19.7623,73.5785,IN,401608,Dahanu TPS,Maharashtra,Thane,Dahanu,,,5,41,44,98,3,4,117,48,26,149,18,10,1,32,86,2,12,29
+XeTkrdi3qw,GeoPoint,19.7623,73.5785,IN,401609,Suryanagar (Thane),Maharashtra,Thane,Dahanu,,,7,55,67,87,8,5,116,49,30,101,15,18,1,39,61,5,14,28
+qPNeQMBcd1,GeoPoint,19.7623,73.5785,IN,401610,Dapchari,Maharashtra,Thane,Dahanu,,,4,53,51,109,6,5,126,55,34,116,16,17,5,26,78,3,11,21
+wvoF36ii07,GeoPoint,20.1157,72.7388,IN,401701,Borigaon,Maharashtra,Thane,Talasari,,,10,34,58,89,4,4,99,63,18,131,15,12,5,39,70,4,14,26
+JEiWJQDHpl,GeoPoint,20.1157,72.7388,IN,401701,Bordi,Maharashtra,Thane,Dahanu,,,10,44,30,98,10,3,132,41,42,113,24,13,1,26,91,2,14,27
+mGzZNteE5o,GeoPoint,20.0847,72.7289,IN,401702,Gholvad,Maharashtra,Thane,Dahanu,,,10,50,35,91,7,1,115,55,35,131,23,17,4,35,80,4,12,24
+KBzU53G6BR,GeoPoint,20.1002,72.7339,IN,401703,Kosbad-hill,Maharashtra,Thane,Dahanu,,,6,43,30,84,2,5,116,61,30,132,22,19,5,28,88,5,10,29
